@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="HondaBike">
+
+    <listeners>
+       <listener class-name="utilities.ExtentReport"/>
+    </listeners>
+	<test name="Regression Test"> 
+		<classes>
+		   <class name="testcases.TC_VerifyMain" />
+		   <class name="testcases.TC_VerifyInvalidLogin" />
+		</classes>
+	</test>
+</suite>

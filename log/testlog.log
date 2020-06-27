@@ -1,0 +1,1533 @@
+2020-05-28 18:45:35,004 - HondaBike -INFO - URL is opened
+2020-05-28 18:50:38,444 - HondaBike -INFO - URL is opened
+2020-05-28 18:50:42,136 - HondaBike -INFO - Entered userid
+2020-05-28 18:50:42,607 - HondaBike -INFO - Entered password
+2020-05-28 18:50:43,480 - HondaBike -INFO - Login test passed
+2020-05-28 18:50:43,924 - HondaBike -INFO - Homepagetitle is verified
+2020-05-28 18:53:16,084 - HondaBike -INFO - URL is opened
+2020-05-28 18:53:18,904 - HondaBike -INFO - Entered userid
+2020-05-28 18:53:19,337 - HondaBike -INFO - Entered password
+2020-05-28 18:53:19,456 - HondaBike -INFO - Login test passed
+2020-05-28 18:53:20,152 - HondaBike -INFO - Homepagetitle is verified
+2020-05-28 20:05:47,969 - BaseClass -INFO - URL is opened
+2020-05-28 20:05:50,845 - BaseClass -INFO - Entered userid
+2020-05-28 20:05:51,273 - BaseClass -INFO - Entered password
+2020-05-28 20:05:51,459 - BaseClass -INFO - Clicked on Login
+2020-05-28 20:05:52,337 - BaseClass -INFO - Homepagetitle is verified
+2020-05-28 20:08:36,145 - HondaBike -INFO - URL is opened
+2020-05-28 20:08:38,146 - HondaBike -INFO - Entered userid
+2020-05-28 20:08:38,646 - HondaBike -INFO - Entered password
+2020-05-28 20:08:38,828 - HondaBike -INFO - Clicked on Login
+2020-05-28 20:08:40,834 - HondaBike -INFO - Homepagetitle is verified
+2020-05-28 20:11:13,759 - HondaBike -INFO - URL is opened
+2020-05-28 20:11:16,121 - HondaBike -INFO - Entered userid
+2020-05-28 20:11:16,665 - HondaBike -INFO - Entered password
+2020-05-28 20:11:16,829 - HondaBike -INFO - Clicked on Login
+2020-05-28 20:11:17,588 - HondaBike -INFO - Homepagetitle is verified
+2020-05-28 20:13:42,373 - BaseClass -INFO - URL is opened
+2020-05-28 20:13:44,981 - BaseClass -INFO - Entered userid
+2020-05-28 20:13:45,493 - BaseClass -INFO - Entered password
+2020-05-28 20:13:45,689 - BaseClass -INFO - Clicked on Login
+2020-05-28 20:13:46,357 - BaseClass -INFO - Homepagetitle is verified
+2020-05-28 20:24:18,623 - HondaBike -INFO - URL is opened
+2020-05-28 20:24:21,426 - HondaBike -INFO - Entered userid
+2020-05-28 20:24:21,960 - HondaBike -INFO - Entered password
+2020-05-28 20:24:22,150 - HondaBike -INFO - Clicked on Login
+2020-05-28 20:24:22,941 - HondaBike -INFO - Homepagetitle is verified
+2020-05-28 20:30:45,627 - HondaBike -INFO - URL is opened
+2020-05-28 20:30:48,119 - HondaBike -INFO - Entered userid
+2020-05-28 20:30:48,869 - HondaBike -INFO - Entered password
+2020-05-28 20:30:49,070 - HondaBike -INFO - Clicked on Login
+2020-05-28 20:30:50,392 - HondaBike -INFO - Homepagetitle is verified
+2020-05-28 20:39:28,813 - HondaBike -INFO - URL is opened
+2020-05-28 20:39:31,596 - HondaBike -INFO - Entered userid
+2020-05-28 20:39:32,197 - HondaBike -INFO - Entered password
+2020-05-28 20:39:36,575 - HondaBike -INFO - Clicked on Login
+2020-05-28 20:39:36,606 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 11:07:16,540 - HondaBike -INFO - URL is opened
+2020-06-01 11:07:19,138 - HondaBike -INFO - Entered userid
+2020-06-01 11:07:19,789 - HondaBike -INFO - Entered password
+2020-06-01 11:07:20,050 - HondaBike -INFO - Clicked on Login
+2020-06-01 11:07:24,520 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 11:09:14,921 - HondaBike -INFO - URL is opened
+2020-06-01 11:09:17,626 - HondaBike -INFO - Entered userid
+2020-06-01 11:09:18,466 - HondaBike -INFO - Entered password
+2020-06-01 11:09:18,622 - HondaBike -INFO - Clicked on Login
+2020-06-01 11:09:19,658 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 11:40:38,095 - HondaBike -INFO - URL is opened
+2020-06-01 11:41:36,487 - HondaBike -INFO - URL is opened
+2020-06-01 11:41:40,451 - HondaBike -INFO - Browser is opened
+2020-06-01 11:47:12,148 - HondaBike -INFO - URL is opened
+2020-06-01 11:47:14,920 - HondaBike -INFO - Entered userid
+2020-06-01 11:47:15,538 - HondaBike -INFO - Entered password
+2020-06-01 11:47:16,548 - HondaBike -INFO - Login test passed
+2020-06-01 11:47:16,618 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 11:47:35,980 - HondaBike -INFO - URL is opened
+2020-06-01 11:47:37,862 - HondaBike -INFO - Browser is opened
+2020-06-01 11:47:41,435 - HondaBike -INFO - Entered userid
+2020-06-01 11:47:42,192 - HondaBike -INFO - Entered password
+2020-06-01 11:47:42,878 - HondaBike -INFO - clicked on login
+2020-06-01 11:47:45,066 - HondaBike -INFO - Invalid login test is passed
+2020-06-01 12:09:38,634 - HondaBike -INFO - Browser is opened
+2020-06-01 12:09:41,168 - HondaBike -INFO - Entered userid
+2020-06-01 12:09:41,667 - HondaBike -INFO - Entered password
+2020-06-01 12:09:41,883 - HondaBike -INFO - Login test is passed
+2020-06-01 12:09:42,862 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 12:09:47,303 - HondaBike -INFO - Entered cityname
+2020-06-01 12:10:03,477 - HondaBike -INFO - Browser is opened
+2020-06-01 12:10:06,295 - HondaBike -INFO - Entered userid
+2020-06-01 12:10:06,760 - HondaBike -INFO - Entered password
+2020-06-01 12:10:07,961 - HondaBike -INFO - clicked on login
+2020-06-01 12:10:08,121 - HondaBike -INFO - Invalid login test is passed
+2020-06-01 12:10:18,992 - HondaBike -INFO - Browser is opened
+2020-06-01 12:10:26,863 - HondaBike -INFO - Brand name is selected
+2020-06-01 12:10:29,206 - HondaBike -INFO - Price range is selected
+2020-06-01 12:10:29,213 - HondaBike -INFO - Upcoming bike 1
+2020-06-01 12:10:36,268 - HondaBike -INFO - Upcoming bike 2
+2020-06-01 12:11:07,470 - HondaBike -INFO - Browser is opened
+2020-06-01 12:11:10,248 - HondaBike -INFO - Entered userid
+2020-06-01 12:11:10,777 - HondaBike -INFO - Entered password
+2020-06-01 12:11:10,946 - HondaBike -INFO - Login test is passed
+2020-06-01 12:11:12,133 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 12:11:16,975 - HondaBike -INFO - Entered cityname
+2020-06-01 12:11:31,680 - HondaBike -INFO - Browser is opened
+2020-06-01 12:11:34,699 - HondaBike -INFO - Entered userid
+2020-06-01 12:11:35,113 - HondaBike -INFO - Entered password
+2020-06-01 12:11:36,535 - HondaBike -INFO - clicked on login
+2020-06-01 12:11:36,637 - HondaBike -INFO - Invalid login test is passed
+2020-06-01 12:11:48,781 - HondaBike -INFO - Browser is opened
+2020-06-01 12:11:55,905 - HondaBike -INFO - Brand name is selected
+2020-06-01 12:11:58,048 - HondaBike -INFO - Price range is selected
+2020-06-01 12:11:58,052 - HondaBike -INFO - Upcoming bike 1
+2020-06-01 12:12:04,826 - HondaBike -INFO - Upcoming bike 2
+2020-06-01 12:14:18,597 - HondaBike -INFO - Browser is opened
+2020-06-01 12:14:21,583 - HondaBike -INFO - Entered userid
+2020-06-01 12:14:22,080 - HondaBike -INFO - Entered password
+2020-06-01 12:14:22,875 - HondaBike -INFO - Login test is passed
+2020-06-01 12:14:23,001 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 12:14:27,614 - HondaBike -INFO - Entered cityname
+2020-06-01 12:14:46,430 - HondaBike -INFO - Browser is opened
+2020-06-01 12:14:49,447 - HondaBike -INFO - Entered userid
+2020-06-01 12:14:49,923 - HondaBike -INFO - Entered password
+2020-06-01 12:14:51,669 - HondaBike -INFO - clicked on login
+2020-06-01 12:14:52,243 - HondaBike -INFO - Invalid login test is passed
+2020-06-01 12:15:05,301 - HondaBike -INFO - Browser is opened
+2020-06-01 12:15:12,556 - HondaBike -INFO - Brand name is selected
+2020-06-01 12:15:14,629 - HondaBike -INFO - Price range is selected
+2020-06-01 12:15:14,660 - HondaBike -INFO - Upcoming bike 1
+2020-06-01 12:15:20,984 - HondaBike -INFO - Upcoming bike 2
+2020-06-01 12:21:06,133 - HondaBike -INFO - Browser is opened
+2020-06-01 12:23:09,925 - HondaBike -INFO - Browser is opened
+2020-06-01 12:23:10,086 - HondaBike -INFO - Upcoming bike 1
+2020-06-01 12:23:10,126 - HondaBike -INFO - Upcoming bike 2
+2020-06-01 12:24:39,975 - HondaBike -INFO - Browser is opened
+2020-06-01 12:25:27,930 - HondaBike -INFO - Entered userid
+2020-06-01 12:25:28,490 - HondaBike -INFO - Entered password
+2020-06-01 12:25:28,665 - HondaBike -INFO - Login test is passed
+2020-06-01 12:25:29,497 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 12:25:33,437 - HondaBike -INFO - Entered cityname
+2020-06-01 12:25:47,285 - HondaBike -INFO - Browser is opened
+2020-06-01 12:25:50,215 - HondaBike -INFO - Entered userid
+2020-06-01 12:25:50,863 - HondaBike -INFO - Entered password
+2020-06-01 12:25:52,637 - HondaBike -INFO - clicked on login
+2020-06-01 12:25:52,896 - HondaBike -INFO - Invalid login test is passed
+2020-06-01 12:26:06,228 - HondaBike -INFO - Browser is opened
+2020-06-01 12:26:13,103 - HondaBike -INFO - Brand name is selected
+2020-06-01 12:26:15,098 - HondaBike -INFO - Price range is selected
+2020-06-01 12:26:15,129 - HondaBike -INFO - Upcoming bike 1
+2020-06-01 12:26:21,228 - HondaBike -INFO - Upcoming bike 2
+2020-06-01 12:58:21,121 - HondaBike -INFO - Browser is opened
+2020-06-01 12:58:26,299 - HondaBike -INFO - Entered userid
+2020-06-01 12:58:26,403 - HondaBike -INFO - Entered password
+2020-06-01 12:58:31,274 - HondaBike -INFO - Login test is passed
+2020-06-01 12:58:31,333 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 12:58:33,520 - HondaBike -INFO - Entered cityname
+2020-06-01 12:58:54,568 - HondaBike -INFO - Browser is opened
+2020-06-01 12:58:58,602 - HondaBike -INFO - Entered userid
+2020-06-01 12:58:58,728 - HondaBike -INFO - Entered password
+2020-06-01 12:59:02,367 - HondaBike -INFO - clicked on login
+2020-06-01 12:59:02,536 - HondaBike -INFO - Invalid login test is passed
+2020-06-01 12:59:19,737 - HondaBike -INFO - Browser is opened
+2020-06-01 12:59:27,919 - HondaBike -INFO - Brand name is selected
+2020-06-01 12:59:30,597 - HondaBike -INFO - Price range is selected
+2020-06-01 12:59:30,614 - HondaBike -INFO - Upcoming bike 1
+2020-06-01 12:59:40,653 - HondaBike -INFO - Upcoming bike 2
+2020-06-01 13:17:39,408 - HondaBike -INFO - Browser is opened
+2020-06-01 13:17:44,592 - HondaBike -INFO - Entered userid
+2020-06-01 13:17:44,886 - HondaBike -INFO - Entered password
+2020-06-01 13:17:50,233 - HondaBike -INFO - Login test is passed
+2020-06-01 13:17:50,265 - HondaBike -INFO - Homepagetitle is verified
+2020-06-01 13:17:52,650 - HondaBike -INFO - Entered cityname
+2020-06-01 14:02:19,342 - BaseClass -INFO - Browser is opened
+2020-06-01 14:02:22,418 - BaseClass -INFO - Entered userid
+2020-06-01 14:02:22,945 - BaseClass -INFO - Entered password
+2020-06-01 14:02:23,111 - BaseClass -INFO - Login test is passed
+2020-06-01 14:02:23,781 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 14:02:28,605 - BaseClass -INFO - Entered cityname
+2020-06-01 14:19:58,304 - BaseClass -INFO - Browser is opened
+2020-06-01 14:20:01,184 - BaseClass -INFO - Entered userid
+2020-06-01 14:20:01,730 - BaseClass -INFO - Entered password
+2020-06-01 14:20:01,934 - BaseClass -INFO - Login test is passed
+2020-06-01 14:20:02,704 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 14:20:08,530 - BaseClass -INFO - Entered cityname
+2020-06-01 14:20:22,560 - BaseClass -INFO - Browser is opened
+2020-06-01 14:20:25,843 - BaseClass -INFO - Entered userid
+2020-06-01 14:20:26,345 - BaseClass -INFO - Entered password
+2020-06-01 14:20:28,179 - BaseClass -INFO - clicked on login
+2020-06-01 14:20:28,627 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 14:20:42,329 - BaseClass -INFO - Browser is opened
+2020-06-01 14:20:49,992 - BaseClass -INFO - Brand name is selected
+2020-06-01 14:20:51,956 - BaseClass -INFO - Price range is selected
+2020-06-01 14:20:51,995 - BaseClass -INFO - Upcoming bike 1
+2020-06-01 14:20:58,161 - BaseClass -INFO - Upcoming bike 2
+2020-06-01 14:26:37,618 - BaseClass -INFO - Browser is opened
+2020-06-01 14:26:38,341 - BaseClass -INFO - Browser is opened
+2020-06-01 14:26:42,219 - BaseClass -INFO - Entered userid
+2020-06-01 14:26:43,424 - BaseClass -INFO - Entered password
+2020-06-01 14:26:43,975 - BaseClass -INFO - clicked on login
+2020-06-01 14:26:44,086 - BaseClass -INFO - Entered userid
+2020-06-01 14:26:44,915 - BaseClass -INFO - Entered password
+2020-06-01 14:26:45,453 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 14:26:47,215 - BaseClass -INFO - clicked on login
+2020-06-01 14:26:48,662 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 14:29:29,876 - BaseClass -INFO - Browser is opened
+2020-06-01 14:29:32,718 - BaseClass -INFO - Entered userid
+2020-06-01 14:29:33,212 - BaseClass -INFO - Entered password
+2020-06-01 14:29:34,391 - BaseClass -INFO - clicked on login
+2020-06-01 14:29:35,875 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 14:31:02,558 - BaseClass -INFO - Browser is opened
+2020-06-01 14:31:05,720 - BaseClass -INFO - Entered userid
+2020-06-01 14:31:06,184 - BaseClass -INFO - Entered password
+2020-06-01 14:31:07,630 - BaseClass -INFO - clicked on login
+2020-06-01 14:31:08,688 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 14:52:40,222 - BaseClass -INFO - Browser is opened
+2020-06-01 14:52:44,470 - BaseClass -INFO - Entered userid
+2020-06-01 14:52:44,638 - BaseClass -INFO - Entered password
+2020-06-01 14:52:47,599 - BaseClass -INFO - clicked on login
+2020-06-01 14:52:48,507 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 15:31:40,208 - BaseClass -INFO - Browser is opened
+2020-06-01 15:31:43,351 - BaseClass -INFO - Entered userid
+2020-06-01 15:31:44,041 - BaseClass -INFO - Entered password
+2020-06-01 15:31:44,252 - BaseClass -INFO - Login test is passed
+2020-06-01 15:31:45,280 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 15:31:49,738 - BaseClass -INFO - Entered cityname
+2020-06-01 15:32:03,619 - BaseClass -INFO - Browser is opened
+2020-06-01 15:32:06,780 - BaseClass -INFO - Entered userid
+2020-06-01 15:32:07,303 - BaseClass -INFO - Entered password
+2020-06-01 15:32:08,733 - BaseClass -INFO - clicked on login
+2020-06-01 15:32:10,075 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 15:32:22,724 - BaseClass -INFO - Browser is opened
+2020-06-01 15:32:33,664 - BaseClass -INFO - Price range is selected
+2020-06-01 15:32:33,671 - BaseClass -INFO - Upcoming bike 1
+2020-06-01 15:32:40,903 - BaseClass -INFO - Upcoming bike 2
+2020-06-01 15:33:40,989 - BaseClass -INFO - Browser is opened
+2020-06-01 15:33:44,198 - BaseClass -INFO - Entered userid
+2020-06-01 15:33:44,753 - BaseClass -INFO - Entered password
+2020-06-01 15:33:44,934 - BaseClass -INFO - Login test is passed
+2020-06-01 15:33:45,722 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 15:33:50,578 - BaseClass -INFO - Entered cityname
+2020-06-01 15:34:04,460 - BaseClass -INFO - Browser is opened
+2020-06-01 15:34:07,652 - BaseClass -INFO - Entered userid
+2020-06-01 15:34:08,041 - BaseClass -INFO - Entered password
+2020-06-01 15:34:09,275 - BaseClass -INFO - clicked on login
+2020-06-01 15:34:10,635 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 15:34:23,080 - BaseClass -INFO - Browser is opened
+2020-06-01 15:34:31,132 - BaseClass -INFO - Brand name is selected
+2020-06-01 15:34:32,933 - BaseClass -INFO - Price range is selected
+2020-06-01 15:34:32,941 - BaseClass -INFO - Upcoming bike 1
+2020-06-01 15:34:38,857 - BaseClass -INFO - Upcoming bike 2
+2020-06-01 23:14:39,440 - BaseClass -INFO - Browser is opened
+2020-06-01 23:14:43,150 - BaseClass -INFO - Entered userid
+2020-06-01 23:14:43,714 - BaseClass -INFO - Entered password
+2020-06-01 23:14:47,797 - BaseClass -INFO - Login test is passed
+2020-06-01 23:14:47,997 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 23:14:48,820 - BaseClass -INFO - Entered cityname
+2020-06-01 23:18:41,285 - BaseClass -INFO - Browser is opened
+2020-06-01 23:18:43,751 - BaseClass -INFO - Entered userid
+2020-06-01 23:18:44,210 - BaseClass -INFO - Entered password
+2020-06-01 23:18:44,376 - BaseClass -INFO - Login test is passed
+2020-06-01 23:18:44,956 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 23:18:48,816 - BaseClass -INFO - Entered cityname
+2020-06-01 23:23:34,542 - BaseClass -INFO - Browser is opened
+2020-06-01 23:23:37,015 - BaseClass -INFO - Entered userid
+2020-06-01 23:23:37,370 - BaseClass -INFO - Entered password
+2020-06-01 23:23:37,527 - BaseClass -INFO - Login test is passed
+2020-06-01 23:23:38,261 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 23:23:42,036 - BaseClass -INFO - Entered cityname
+2020-06-01 23:25:16,590 - BaseClass -INFO - Browser is opened
+2020-06-01 23:25:18,756 - BaseClass -INFO - Entered userid
+2020-06-01 23:25:19,133 - BaseClass -INFO - Entered password
+2020-06-01 23:25:19,292 - BaseClass -INFO - Login test is passed
+2020-06-01 23:25:20,102 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 23:25:23,739 - BaseClass -INFO - Entered cityname
+2020-06-01 23:25:35,694 - BaseClass -INFO - Browser is opened
+2020-06-01 23:25:38,195 - BaseClass -INFO - Entered userid
+2020-06-01 23:25:38,621 - BaseClass -INFO - Entered password
+2020-06-01 23:25:39,861 - BaseClass -INFO - clicked on login
+2020-06-01 23:25:40,702 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 23:25:52,621 - BaseClass -INFO - Browser is opened
+2020-06-01 23:25:59,009 - BaseClass -INFO - Brand name is selected
+2020-06-01 23:26:00,964 - BaseClass -INFO - Price range is selected
+2020-06-01 23:26:00,972 - BaseClass -INFO - Upcoming bike 1
+2020-06-01 23:26:06,526 - BaseClass -INFO - Upcoming bike 2
+2020-06-01 23:35:56,806 - BaseClass -INFO - Browser is opened
+2020-06-01 23:35:59,405 - BaseClass -INFO - Entered userid
+2020-06-01 23:35:59,946 - BaseClass -INFO - Entered password
+2020-06-01 23:36:00,156 - BaseClass -INFO - Login test is passed
+2020-06-01 23:36:00,881 - BaseClass -INFO - Homepagetitle is verified
+2020-06-01 23:36:04,268 - BaseClass -INFO - Entered cityname
+2020-06-01 23:36:16,574 - BaseClass -INFO - Browser is opened
+2020-06-01 23:36:20,117 - BaseClass -INFO - Entered userid
+2020-06-01 23:36:20,590 - BaseClass -INFO - Entered password
+2020-06-01 23:36:22,124 - BaseClass -INFO - clicked on login
+2020-06-01 23:36:22,948 - BaseClass -INFO - Invalid login test is passed
+2020-06-01 23:36:35,214 - BaseClass -INFO - Browser is opened
+2020-06-01 23:36:41,682 - BaseClass -INFO - Brand name is selected
+2020-06-01 23:36:43,637 - BaseClass -INFO - Price range is selected
+2020-06-01 23:36:43,668 - BaseClass -INFO - Upcoming bike 1
+2020-06-01 23:36:47,791 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 15:09:38,614 - BaseClass -INFO - Browser is opened
+2020-06-02 15:09:41,611 - BaseClass -INFO - Entered userid
+2020-06-02 15:09:42,004 - BaseClass -INFO - Entered password
+2020-06-02 15:09:42,140 - BaseClass -INFO - Login test is passed
+2020-06-02 15:09:45,572 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 15:09:48,845 - BaseClass -INFO - Entered cityname
+2020-06-02 15:10:15,934 - BaseClass -INFO - Browser is opened
+2020-06-02 15:10:17,893 - BaseClass -INFO - Entered userid
+2020-06-02 15:10:18,289 - BaseClass -INFO - Entered password
+2020-06-02 15:10:18,410 - BaseClass -INFO - clicked on login
+2020-06-02 15:10:20,307 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 15:10:35,149 - BaseClass -INFO - Browser is opened
+2020-06-02 15:10:43,792 - BaseClass -INFO - Brand name is selected
+2020-06-02 15:10:45,397 - BaseClass -INFO - Price range is selected
+2020-06-02 15:10:45,412 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 15:10:56,319 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 15:20:03,815 - BaseClass -INFO - Browser is opened
+2020-06-02 15:20:05,811 - BaseClass -INFO - Entered userid
+2020-06-02 15:20:06,250 - BaseClass -INFO - Entered password
+2020-06-02 15:20:08,962 - BaseClass -INFO - Login test is passed
+2020-06-02 15:20:11,343 - BaseClass -INFO - Entered cityname
+2020-06-02 15:20:36,608 - BaseClass -INFO - Browser is opened
+2020-06-02 15:20:38,617 - BaseClass -INFO - Entered userid
+2020-06-02 15:20:39,071 - BaseClass -INFO - Entered password
+2020-06-02 15:20:39,203 - BaseClass -INFO - clicked on login
+2020-06-02 15:20:57,816 - BaseClass -INFO - Browser is opened
+2020-06-02 15:21:06,638 - BaseClass -INFO - Brand name is selected
+2020-06-02 15:21:08,264 - BaseClass -INFO - Price range is selected
+2020-06-02 15:21:08,270 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 15:21:14,461 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 15:40:00,661 - BaseClass -INFO - Browser is opened
+2020-06-02 15:40:02,891 - BaseClass -INFO - Entered userid
+2020-06-02 15:40:03,392 - BaseClass -INFO - Entered password
+2020-06-02 15:40:03,555 - BaseClass -INFO - Login test is passed
+2020-06-02 15:40:08,692 - BaseClass -INFO - Entered cityname
+2020-06-02 15:40:23,902 - BaseClass -INFO - Browser is opened
+2020-06-02 15:40:27,080 - BaseClass -INFO - Entered userid
+2020-06-02 15:40:27,676 - BaseClass -INFO - Entered password
+2020-06-02 15:40:29,184 - BaseClass -INFO - clicked on login
+2020-06-02 15:40:44,040 - BaseClass -INFO - Browser is opened
+2020-06-02 15:40:53,862 - BaseClass -INFO - Brand name is selected
+2020-06-02 15:40:55,628 - BaseClass -INFO - Price range is selected
+2020-06-02 15:40:55,636 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 15:40:58,838 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 16:41:14,063 - BaseClass -INFO - Browser is opened
+2020-06-02 16:41:17,203 - BaseClass -INFO - Entered userid
+2020-06-02 16:41:17,446 - BaseClass -INFO - Entered password
+2020-06-02 16:41:18,241 - BaseClass -INFO - Login test is passed
+2020-06-02 16:41:23,008 - BaseClass -INFO - Entered cityname
+2020-06-02 16:41:34,610 - BaseClass -INFO - Browser is opened
+2020-06-02 16:41:37,182 - BaseClass -INFO - Entered userid
+2020-06-02 16:41:37,385 - BaseClass -INFO - Entered password
+2020-06-02 16:41:38,604 - BaseClass -INFO - clicked on login
+2020-06-02 16:41:51,734 - BaseClass -INFO - Browser is opened
+2020-06-02 16:41:57,317 - BaseClass -INFO - Brand name is selected
+2020-06-02 16:41:59,433 - BaseClass -INFO - Price range is selected
+2020-06-02 16:41:59,440 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 16:42:03,420 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 17:10:03,411 - BaseClass -INFO - Browser is opened
+2020-06-02 17:10:06,423 - BaseClass -INFO - Entered userid
+2020-06-02 17:10:06,699 - BaseClass -INFO - Entered password
+2020-06-02 17:10:07,542 - BaseClass -INFO - Login test is passed
+2020-06-02 17:10:07,728 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 17:10:11,507 - BaseClass -INFO - Entered cityname
+2020-06-02 17:10:25,642 - BaseClass -INFO - Browser is opened
+2020-06-02 17:10:28,562 - BaseClass -INFO - Entered userid
+2020-06-02 17:10:28,956 - BaseClass -INFO - Entered password
+2020-06-02 17:10:29,476 - BaseClass -INFO - clicked on login
+2020-06-02 17:10:30,266 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 17:10:41,824 - BaseClass -INFO - Browser is opened
+2020-06-02 17:10:47,665 - BaseClass -INFO - Brand name is selected
+2020-06-02 17:10:49,791 - BaseClass -INFO - Price range is selected
+2020-06-02 17:10:49,799 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 17:10:54,498 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 17:14:58,071 - BaseClass -INFO - Browser is opened
+2020-06-02 17:15:00,887 - BaseClass -INFO - Entered userid
+2020-06-02 17:15:01,247 - BaseClass -INFO - Entered password
+2020-06-02 17:15:01,367 - BaseClass -INFO - Login test is passed
+2020-06-02 17:15:02,001 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 17:15:05,512 - BaseClass -INFO - Entered cityname
+2020-06-02 17:15:18,281 - BaseClass -INFO - Browser is opened
+2020-06-02 17:15:21,072 - BaseClass -INFO - Entered userid
+2020-06-02 17:15:21,251 - BaseClass -INFO - Entered password
+2020-06-02 17:15:22,475 - BaseClass -INFO - clicked on login
+2020-06-02 17:15:22,712 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 17:15:34,843 - BaseClass -INFO - Browser is opened
+2020-06-02 17:15:41,475 - BaseClass -INFO - Brand name is selected
+2020-06-02 17:15:43,403 - BaseClass -INFO - Price range is selected
+2020-06-02 17:15:43,420 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 17:15:47,841 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 17:25:55,810 - BaseClass -INFO - Browser is opened
+2020-06-02 17:25:58,475 - BaseClass -INFO - Entered userid
+2020-06-02 17:25:58,729 - BaseClass -INFO - Entered password
+2020-06-02 17:25:59,607 - BaseClass -INFO - Login test is passed
+2020-06-02 17:26:00,123 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 17:26:03,510 - BaseClass -INFO - Entered cityname
+2020-06-02 17:26:17,137 - BaseClass -INFO - Browser is opened
+2020-06-02 17:26:19,662 - BaseClass -INFO - Entered userid
+2020-06-02 17:26:19,811 - BaseClass -INFO - Entered password
+2020-06-02 17:26:20,796 - BaseClass -INFO - clicked on login
+2020-06-02 17:26:20,901 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 17:26:31,294 - BaseClass -INFO - Browser is opened
+2020-06-02 17:26:37,548 - BaseClass -INFO - Brand name is selected
+2020-06-02 17:26:39,604 - BaseClass -INFO - Price range is selected
+2020-06-02 17:26:39,639 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 17:26:44,038 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 17:29:47,607 - BaseClass -INFO - Browser is opened
+2020-06-02 17:29:50,369 - BaseClass -INFO - Entered userid
+2020-06-02 17:29:50,592 - BaseClass -INFO - Entered password
+2020-06-02 17:29:50,766 - BaseClass -INFO - Login test is passed
+2020-06-02 17:29:51,317 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 17:29:55,112 - BaseClass -INFO - Entered cityname
+2020-06-02 17:30:08,678 - BaseClass -INFO - Browser is opened
+2020-06-02 17:30:10,936 - BaseClass -INFO - Entered userid
+2020-06-02 17:30:11,143 - BaseClass -INFO - Entered password
+2020-06-02 17:30:12,352 - BaseClass -INFO - clicked on login
+2020-06-02 17:30:12,552 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 17:30:23,381 - BaseClass -INFO - Browser is opened
+2020-06-02 17:30:30,706 - BaseClass -INFO - Brand name is selected
+2020-06-02 17:30:32,494 - BaseClass -INFO - Price range is selected
+2020-06-02 17:30:32,503 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 17:30:36,687 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 17:39:18,589 - BaseClass -INFO - Browser is opened
+2020-06-02 17:39:21,003 - BaseClass -INFO - Entered userid
+2020-06-02 17:39:21,241 - BaseClass -INFO - Entered password
+2020-06-02 17:39:21,356 - BaseClass -INFO - Login test is passed
+2020-06-02 17:39:22,029 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 17:39:25,835 - BaseClass -INFO - Entered cityname
+2020-06-02 17:39:37,340 - BaseClass -INFO - Browser is opened
+2020-06-02 17:39:39,958 - BaseClass -INFO - Entered userid
+2020-06-02 17:39:40,156 - BaseClass -INFO - Entered password
+2020-06-02 17:39:41,287 - BaseClass -INFO - clicked on login
+2020-06-02 17:39:41,403 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 17:39:51,723 - BaseClass -INFO - Browser is opened
+2020-06-02 17:39:58,300 - BaseClass -INFO - Brand name is selected
+2020-06-02 17:40:00,213 - BaseClass -INFO - Price range is selected
+2020-06-02 17:40:00,223 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 17:40:05,664 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 17:42:26,829 - BaseClass -INFO - Browser is opened
+2020-06-02 17:42:29,691 - BaseClass -INFO - Entered userid
+2020-06-02 17:42:29,958 - BaseClass -INFO - Entered password
+2020-06-02 17:42:30,127 - BaseClass -INFO - Login test is passed
+2020-06-02 17:42:30,943 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 17:42:35,476 - BaseClass -INFO - Entered cityname
+2020-06-02 17:42:49,147 - BaseClass -INFO - Browser is opened
+2020-06-02 17:42:52,418 - BaseClass -INFO - Entered userid
+2020-06-02 17:42:52,622 - BaseClass -INFO - Entered password
+2020-06-02 17:42:53,938 - BaseClass -INFO - clicked on login
+2020-06-02 17:42:54,071 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 17:43:05,533 - BaseClass -INFO - Browser is opened
+2020-06-02 17:43:12,327 - BaseClass -INFO - Brand name is selected
+2020-06-02 17:43:14,591 - BaseClass -INFO - Price range is selected
+2020-06-02 17:43:14,600 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 17:43:21,577 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 21:42:01,738 - BaseClass -INFO - Browser is opened
+2020-06-02 21:42:05,728 - BaseClass -INFO - Entered userid
+2020-06-02 21:42:06,511 - BaseClass -INFO - Entered password
+2020-06-02 21:42:09,329 - BaseClass -INFO - Login test is passed
+2020-06-02 21:42:09,374 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 21:42:12,005 - BaseClass -INFO - Entered cityname
+2020-06-02 21:42:59,498 - BaseClass -INFO - Browser is opened
+2020-06-02 21:43:59,784 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 21:44:01,956 - BaseClass -INFO - Entered cityname
+2020-06-02 21:44:18,732 - BaseClass -INFO - Browser is opened
+2020-06-02 21:44:28,502 - BaseClass -INFO - Browser is opened
+2020-06-02 21:44:31,384 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 21:44:31,741 - BaseClass -INFO - Upcoming bike 2
+2020-06-02 21:46:11,095 - BaseClass -INFO - Browser is opened
+2020-06-02 21:47:11,310 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 21:47:13,459 - BaseClass -INFO - Entered cityname
+2020-06-02 21:47:37,767 - BaseClass -INFO - Browser is opened
+2020-06-02 21:48:37,977 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 21:48:39,980 - BaseClass -INFO - Entered cityname
+2020-06-02 21:51:55,099 - BaseClass -INFO - Browser is opened
+2020-06-02 21:52:55,193 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 21:52:57,322 - BaseClass -INFO - Entered cityname
+2020-06-02 22:05:48,900 - BaseClass -INFO - Browser is opened
+2020-06-02 22:05:51,425 - BaseClass -INFO - Entered userid
+2020-06-02 22:05:51,887 - BaseClass -INFO - Entered password
+2020-06-02 22:05:52,049 - BaseClass -INFO - Login test is passed
+2020-06-02 22:05:52,807 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 22:05:56,037 - BaseClass -INFO - Entered cityname
+2020-06-02 22:06:37,641 - BaseClass -INFO - Browser is opened
+2020-06-02 22:06:39,990 - BaseClass -INFO - Entered userid
+2020-06-02 22:06:40,254 - BaseClass -INFO - Entered password
+2020-06-02 22:06:40,461 - BaseClass -INFO - Login test is passed
+2020-06-02 22:06:41,223 - BaseClass -INFO - Homepagetitle is verified
+2020-06-02 22:06:44,385 - BaseClass -INFO - Entered cityname
+2020-06-02 22:06:57,926 - BaseClass -INFO - Browser is opened
+2020-06-02 22:07:00,442 - BaseClass -INFO - Entered userid
+2020-06-02 22:07:00,596 - BaseClass -INFO - Entered password
+2020-06-02 22:07:01,839 - BaseClass -INFO - clicked on login
+2020-06-02 22:07:02,382 - BaseClass -INFO - Invalid login test is passed
+2020-06-02 22:07:19,355 - BaseClass -INFO - Browser is opened
+2020-06-02 22:07:25,069 - BaseClass -INFO - Brand name is selected
+2020-06-02 22:07:26,766 - BaseClass -INFO - Price range is selected
+2020-06-02 22:07:26,791 - BaseClass -INFO - Upcoming bike 1
+2020-06-02 22:07:31,460 - BaseClass -INFO - Upcoming bike 2
+2020-06-03 14:52:37,117 - BaseClass -INFO - Browser is opened
+2020-06-03 14:52:40,506 - BaseClass -INFO - Entered userid
+2020-06-03 14:52:40,913 - BaseClass -INFO - Entered password
+2020-06-03 14:52:44,097 - BaseClass -INFO - Login test is passed
+2020-06-03 14:52:44,219 - BaseClass -INFO - Homepagetitle is verified
+2020-06-03 14:52:44,899 - BaseClass -INFO - Entered cityname
+2020-06-03 14:52:58,350 - BaseClass -INFO - Browser is opened
+2020-06-03 14:53:00,838 - BaseClass -INFO - Entered userid
+2020-06-03 14:53:01,008 - BaseClass -INFO - Entered password
+2020-06-03 14:53:02,188 - BaseClass -INFO - clicked on login
+2020-06-03 14:53:02,396 - BaseClass -INFO - Invalid login test is passed
+2020-06-03 14:53:15,897 - BaseClass -INFO - Browser is opened
+2020-06-03 14:53:16,716 - BaseClass -INFO - Approximate price is selected
+2020-06-03 14:53:21,269 - BaseClass -INFO - Brand name is selected
+2020-06-03 14:53:23,103 - BaseClass -INFO - Price range is selected
+2020-06-03 14:53:23,120 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 14:53:27,989 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 14:53:29,052 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 14:53:33,526 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 14:53:35,982 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 14:53:36,020 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 15:05:32,135 - BaseClass -INFO - Browser is opened
+2020-06-03 15:05:34,860 - BaseClass -INFO - Entered userid
+2020-06-03 15:05:35,144 - BaseClass -INFO - Entered password
+2020-06-03 15:05:35,298 - BaseClass -INFO - Login test is passed
+2020-06-03 15:05:35,980 - BaseClass -INFO - Homepagetitle is verified
+2020-06-03 15:05:39,453 - BaseClass -INFO - Entered cityname
+2020-06-03 15:05:54,529 - BaseClass -INFO - Browser is opened
+2020-06-03 15:05:57,194 - BaseClass -INFO - Entered userid
+2020-06-03 15:05:57,330 - BaseClass -INFO - Entered password
+2020-06-03 15:05:58,553 - BaseClass -INFO - clicked on login
+2020-06-03 15:05:58,663 - BaseClass -INFO - Invalid login test is passed
+2020-06-03 15:06:10,612 - BaseClass -INFO - Browser is opened
+2020-06-03 15:06:15,632 - BaseClass -INFO - Approximate price is selected
+2020-06-03 15:06:16,675 - BaseClass -INFO - Brand name is selected
+2020-06-03 15:06:18,787 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 15:06:22,310 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 15:06:23,355 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 15:06:27,861 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 15:06:29,277 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 15:06:29,323 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 15:07:34,614 - BaseClass -INFO - Browser is opened
+2020-06-03 15:07:37,289 - BaseClass -INFO - Entered userid
+2020-06-03 15:07:37,490 - BaseClass -INFO - Entered password
+2020-06-03 15:07:37,618 - BaseClass -INFO - Login test is passed
+2020-06-03 15:07:38,227 - BaseClass -INFO - Homepagetitle is verified
+2020-06-03 15:07:41,409 - BaseClass -INFO - Entered cityname
+2020-06-03 15:07:53,946 - BaseClass -INFO - Browser is opened
+2020-06-03 15:07:56,488 - BaseClass -INFO - Entered userid
+2020-06-03 15:07:56,658 - BaseClass -INFO - Entered password
+2020-06-03 15:07:57,966 - BaseClass -INFO - clicked on login
+2020-06-03 15:07:58,097 - BaseClass -INFO - Invalid login test is passed
+2020-06-03 15:08:08,880 - BaseClass -INFO - Browser is opened
+2020-06-03 15:08:14,565 - BaseClass -INFO - Approximate price is selected
+2020-06-03 15:08:15,597 - BaseClass -INFO - Brand name is selected
+2020-06-03 15:08:17,719 - BaseClass -INFO - Price range is selected
+2020-06-03 15:08:17,725 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 15:08:21,653 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 15:08:22,692 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 15:08:27,124 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 15:08:29,425 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 15:08:29,469 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 20:50:42,090 - BaseClass -INFO - Browser is opened
+2020-06-03 20:50:45,262 - BaseClass -INFO - Entered userid
+2020-06-03 20:50:45,496 - BaseClass -INFO - Entered password
+2020-06-03 20:50:46,480 - BaseClass -INFO - Login test is passed
+2020-06-03 20:50:46,599 - BaseClass -INFO - Homepagetitle is verified
+2020-06-03 20:50:49,905 - BaseClass -INFO - Entered cityname
+2020-06-03 20:51:06,835 - BaseClass -INFO - Browser is opened
+2020-06-03 20:51:09,759 - BaseClass -INFO - Entered userid
+2020-06-03 20:51:09,933 - BaseClass -INFO - Entered password
+2020-06-03 20:51:11,431 - BaseClass -INFO - clicked on login
+2020-06-03 20:51:11,968 - BaseClass -INFO - Invalid login test is passed
+2020-06-03 20:51:23,554 - BaseClass -INFO - Browser is opened
+2020-06-03 20:51:24,455 - BaseClass -INFO - Approximate price is selected
+2020-06-03 20:51:29,888 - BaseClass -INFO - Brand name is selected
+2020-06-03 20:51:32,041 - BaseClass -INFO - Price range is selected
+2020-06-03 20:51:32,051 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 20:51:35,375 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 20:51:36,426 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 20:51:40,311 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 20:51:42,006 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 20:51:42,496 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 21:52:47,177 - BaseClass -INFO - Browser is opened
+2020-06-03 21:55:55,598 - BaseClass -INFO - Browser is opened
+2020-06-03 21:58:03,543 - BaseClass -INFO - Browser is opened
+2020-06-03 21:58:03,683 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 21:58:03,705 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 21:58:04,737 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 21:58:05,754 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 21:58:05,762 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 21:58:05,790 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 22:05:41,542 - BaseClass -INFO - Browser is opened
+2020-06-03 22:08:47,298 - BaseClass -INFO - Browser is opened
+2020-06-03 22:08:58,645 - BaseClass -INFO - Browser is opened
+2020-06-03 22:08:59,513 - BaseClass -INFO - Approximate price is selected
+2020-06-03 22:09:05,330 - BaseClass -INFO - Brand name is selected
+2020-06-03 22:09:07,076 - BaseClass -INFO - Price range is selected
+2020-06-03 22:09:07,084 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 22:09:11,268 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 22:09:12,309 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 22:09:15,732 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 22:09:17,372 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 22:09:17,416 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 22:14:28,824 - BaseClass -INFO - Browser is opened
+2020-06-03 22:14:31,417 - BaseClass -INFO - Entered userid
+2020-06-03 22:14:31,616 - BaseClass -INFO - Entered password
+2020-06-03 22:14:31,760 - BaseClass -INFO - Login test is passed
+2020-06-03 22:14:32,601 - BaseClass -INFO - Homepagetitle is verified
+2020-06-03 22:14:36,321 - BaseClass -INFO - Entered cityname
+2020-06-03 22:14:50,240 - BaseClass -INFO - Browser is opened
+2020-06-03 22:14:52,635 - BaseClass -INFO - Entered userid
+2020-06-03 22:14:52,805 - BaseClass -INFO - Entered password
+2020-06-03 22:14:54,413 - BaseClass -INFO - clicked on login
+2020-06-03 22:14:54,530 - BaseClass -INFO - Invalid login test is passed
+2020-06-03 22:15:07,586 - BaseClass -INFO - Browser is opened
+2020-06-03 22:15:12,042 - BaseClass -INFO - Approximate price is selected
+2020-06-03 22:15:13,011 - BaseClass -INFO - Brand name is selected
+2020-06-03 22:15:14,582 - BaseClass -INFO - Price range is selected
+2020-06-03 22:15:14,586 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 22:15:16,744 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 22:15:17,816 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 22:15:22,478 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 22:15:25,139 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 22:15:25,197 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-03 22:17:29,878 - BaseClass -INFO - Browser is opened
+2020-06-03 22:17:32,112 - BaseClass -INFO - Entered userid
+2020-06-03 22:17:32,280 - BaseClass -INFO - Entered password
+2020-06-03 22:17:32,405 - BaseClass -INFO - Login test is passed
+2020-06-03 22:17:33,213 - BaseClass -INFO - Homepagetitle is verified
+2020-06-03 22:17:36,406 - BaseClass -INFO - Entered cityname
+2020-06-03 22:17:52,121 - BaseClass -INFO - Browser is opened
+2020-06-03 22:17:54,230 - BaseClass -INFO - Entered userid
+2020-06-03 22:17:54,353 - BaseClass -INFO - Entered password
+2020-06-03 22:17:54,432 - BaseClass -INFO - clicked on login
+2020-06-03 22:17:55,925 - BaseClass -INFO - Invalid login test is passed
+2020-06-03 22:18:08,875 - BaseClass -INFO - Browser is opened
+2020-06-03 22:18:13,301 - BaseClass -INFO - Approximate price is selected
+2020-06-03 22:18:13,988 - BaseClass -INFO - Brand name is selected
+2020-06-03 22:18:15,471 - BaseClass -INFO - Price range is selected
+2020-06-03 22:18:15,478 - BaseClass -INFO - Upcoming first bike name 
+2020-06-03 22:18:17,787 - BaseClass -INFO - Upcoming first bike price 
+2020-06-03 22:18:18,867 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-03 22:18:22,849 - BaseClass -INFO - Upcoming second bike name 
+2020-06-03 22:18:25,089 - BaseClass -INFO - Upcoming second bike price 
+2020-06-03 22:18:25,141 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-04 11:24:26,313 - BaseClass -INFO - Browser is opened
+2020-06-04 11:24:29,259 - BaseClass -INFO - Entered userid
+2020-06-04 11:24:29,552 - BaseClass -INFO - Entered password
+2020-06-04 11:24:33,171 - BaseClass -INFO - Login test is passed
+2020-06-04 11:24:33,390 - BaseClass -INFO - Homepagetitle is verified
+2020-06-04 11:24:34,041 - BaseClass -INFO - Entered cityname
+2020-06-04 11:24:50,507 - BaseClass -INFO - Browser is opened
+2020-06-04 11:24:53,052 - BaseClass -INFO - Entered userid
+2020-06-04 11:24:53,235 - BaseClass -INFO - Entered password
+2020-06-04 11:24:54,417 - BaseClass -INFO - clicked on login
+2020-06-04 11:24:54,584 - BaseClass -INFO - Invalid login test is passed
+2020-06-04 11:25:07,165 - BaseClass -INFO - Browser is opened
+2020-06-04 11:25:11,048 - BaseClass -INFO - Approximate price is selected
+2020-06-04 11:25:12,986 - BaseClass -INFO - Brand name is selected
+2020-06-04 11:25:14,728 - BaseClass -INFO - Price range is selected
+2020-06-04 11:25:14,740 - BaseClass -INFO - Upcoming first bike name 
+2020-06-04 11:25:17,777 - BaseClass -INFO - Upcoming first bike price 
+2020-06-04 11:25:18,853 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-04 11:25:23,178 - BaseClass -INFO - Upcoming second bike name 
+2020-06-04 11:25:25,225 - BaseClass -INFO - Upcoming second bike price 
+2020-06-04 11:25:25,274 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-04 17:16:47,809 - BaseClass -INFO - Browser is opened
+2020-06-04 17:16:50,346 - BaseClass -INFO - Entered userid
+2020-06-04 17:16:50,565 - BaseClass -INFO - Entered password
+2020-06-04 17:16:50,756 - BaseClass -INFO - Login test is passed
+2020-06-04 17:16:51,679 - BaseClass -INFO - Homepagetitle is verified
+2020-06-04 17:16:55,128 - BaseClass -INFO - Entered cityname
+2020-06-04 17:17:08,972 - BaseClass -INFO - Browser is opened
+2020-06-04 17:17:11,405 - BaseClass -INFO - Entered userid
+2020-06-04 17:17:11,570 - BaseClass -INFO - Entered password
+2020-06-04 17:17:11,722 - BaseClass -INFO - clicked on login
+2020-06-04 17:17:12,742 - BaseClass -INFO - Invalid login test is passed
+2020-06-04 17:17:23,988 - BaseClass -INFO - Browser is opened
+2020-06-04 17:17:29,215 - BaseClass -INFO - Approximate price is selected
+2020-06-04 17:17:30,272 - BaseClass -INFO - Brand name is selected
+2020-06-04 17:17:32,136 - BaseClass -INFO - Price range is selected
+2020-06-04 17:17:32,153 - BaseClass -INFO - Upcoming first bike name 
+2020-06-04 17:17:35,371 - BaseClass -INFO - Upcoming first bike price 
+2020-06-04 17:17:36,408 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-04 17:17:40,685 - BaseClass -INFO - Upcoming second bike name 
+2020-06-04 17:17:42,661 - BaseClass -INFO - Upcoming second bike price 
+2020-06-04 17:17:42,699 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-04 17:18:45,160 - BaseClass -INFO - Browser is opened
+2020-06-04 17:18:47,582 - BaseClass -INFO - Entered userid
+2020-06-04 17:18:47,815 - BaseClass -INFO - Entered password
+2020-06-04 17:18:48,652 - BaseClass -INFO - Login test is passed
+2020-06-04 17:18:48,873 - BaseClass -INFO - Homepagetitle is verified
+2020-06-04 17:18:51,734 - BaseClass -INFO - Entered cityname
+2020-06-04 17:19:05,584 - BaseClass -INFO - Browser is opened
+2020-06-04 17:19:08,048 - BaseClass -INFO - Entered userid
+2020-06-04 17:19:08,201 - BaseClass -INFO - Entered password
+2020-06-04 17:19:09,771 - BaseClass -INFO - clicked on login
+2020-06-04 17:19:09,883 - BaseClass -INFO - Invalid login test is passed
+2020-06-04 17:19:21,980 - BaseClass -INFO - Browser is opened
+2020-06-04 17:19:26,493 - BaseClass -INFO - Approximate price is selected
+2020-06-04 17:19:27,425 - BaseClass -INFO - Brand name is selected
+2020-06-04 17:19:29,100 - BaseClass -INFO - Price range is selected
+2020-06-04 17:19:29,104 - BaseClass -INFO - Upcoming first bike name 
+2020-06-04 17:19:32,389 - BaseClass -INFO - Upcoming first bike price 
+2020-06-04 17:19:33,436 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-04 17:19:37,979 - BaseClass -INFO - Upcoming second bike name 
+2020-06-04 17:19:40,100 - BaseClass -INFO - Upcoming second bike price 
+2020-06-04 17:19:40,136 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-04 17:20:48,420 - BaseClass -INFO - Browser is opened
+2020-06-04 17:20:51,744 - BaseClass -INFO - Entered userid
+2020-06-04 17:20:51,959 - BaseClass -INFO - Entered password
+2020-06-04 17:20:52,169 - BaseClass -INFO - Login test is passed
+2020-06-04 17:20:53,110 - BaseClass -INFO - Homepagetitle is verified
+2020-06-04 17:20:57,095 - BaseClass -INFO - Entered cityname
+2020-06-04 17:21:11,484 - BaseClass -INFO - Browser is opened
+2020-06-04 17:21:14,187 - BaseClass -INFO - Entered userid
+2020-06-04 17:21:14,341 - BaseClass -INFO - Entered password
+2020-06-04 17:21:15,819 - BaseClass -INFO - clicked on login
+2020-06-04 17:21:16,365 - BaseClass -INFO - Invalid login test is passed
+2020-06-04 17:21:27,867 - BaseClass -INFO - Browser is opened
+2020-06-04 17:21:28,814 - BaseClass -INFO - Approximate price is selected
+2020-06-04 17:21:34,175 - BaseClass -INFO - Brand name is selected
+2020-06-04 17:21:36,048 - BaseClass -INFO - Price range is selected
+2020-06-04 17:21:36,050 - BaseClass -INFO - Upcoming first bike name 
+2020-06-04 17:21:39,526 - BaseClass -INFO - Upcoming first bike price 
+2020-06-04 17:21:40,579 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-04 17:21:44,539 - BaseClass -INFO - Upcoming second bike name 
+2020-06-04 17:21:45,595 - BaseClass -INFO - Upcoming second bike price 
+2020-06-04 17:21:46,264 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-05 11:13:16,649 - BaseClass -INFO - Browser is opened
+2020-06-05 11:13:20,291 - BaseClass -INFO - Entered userid
+2020-06-05 11:13:20,520 - BaseClass -INFO - Entered password
+2020-06-05 11:13:25,612 - BaseClass -INFO - Login test is passed
+2020-06-05 11:13:26,144 - BaseClass -INFO - Homepagetitle is verified
+2020-06-05 11:13:27,023 - BaseClass -INFO - Entered cityname
+2020-06-05 11:13:49,002 - BaseClass -INFO - Browser is opened
+2020-06-05 11:13:52,375 - BaseClass -INFO - Entered userid
+2020-06-05 11:13:52,550 - BaseClass -INFO - Entered password
+2020-06-05 11:13:53,771 - BaseClass -INFO - clicked on login
+2020-06-05 11:13:54,004 - BaseClass -INFO - Invalid login test is passed
+2020-06-05 11:14:06,878 - BaseClass -INFO - Browser is opened
+2020-06-05 11:14:48,010 - BaseClass -INFO - Approximate price is selected
+2020-06-05 11:14:49,590 - BaseClass -INFO - Brand name is selected
+2020-06-05 11:14:51,532 - BaseClass -INFO - Price range is selected
+2020-06-05 11:14:51,537 - BaseClass -INFO - Upcoming first bike name 
+2020-06-05 11:14:56,733 - BaseClass -INFO - Upcoming first bike price 
+2020-06-05 11:14:57,837 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-05 11:15:02,703 - BaseClass -INFO - Upcoming second bike name 
+2020-06-05 11:15:06,113 - BaseClass -INFO - Upcoming second bike price 
+2020-06-05 11:15:06,159 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-05 11:16:02,483 - BaseClass -INFO - Browser is opened
+2020-06-05 11:30:39,203 - BaseClass -INFO - Browser is opened
+2020-06-05 11:30:45,792 - BaseClass -INFO - Entered userid
+2020-06-05 11:30:46,618 - BaseClass -INFO - Entered password
+2020-06-05 11:30:53,934 - BaseClass -INFO - Login test is passed
+2020-06-05 11:30:53,981 - BaseClass -INFO - Homepagetitle is verified
+2020-06-05 11:30:55,548 - BaseClass -INFO - Entered cityname
+2020-06-05 11:31:23,698 - BaseClass -INFO - Browser is opened
+2020-06-05 11:31:29,540 - BaseClass -INFO - Entered userid
+2020-06-05 11:31:29,867 - BaseClass -INFO - Entered password
+2020-06-05 11:31:32,100 - BaseClass -INFO - clicked on login
+2020-06-05 11:31:32,933 - BaseClass -INFO - Invalid login test is passed
+2020-06-05 11:31:50,667 - BaseClass -INFO - Browser is opened
+2020-06-05 11:32:01,917 - BaseClass -INFO - Approximate price is selected
+2020-06-05 11:32:03,966 - BaseClass -INFO - Brand name is selected
+2020-06-05 11:32:06,787 - BaseClass -INFO - Price range is selected
+2020-06-05 11:32:06,796 - BaseClass -INFO - Upcoming first bike name 
+2020-06-05 11:32:12,887 - BaseClass -INFO - Upcoming first bike price 
+2020-06-05 11:32:13,966 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-05 11:32:20,222 - BaseClass -INFO - Upcoming second bike name 
+2020-06-05 11:32:24,296 - BaseClass -INFO - Upcoming second bike price 
+2020-06-05 11:32:24,453 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-08 09:44:59,827 - BaseClass -INFO - Browser is opened
+2020-06-08 09:45:02,220 - BaseClass -INFO - Entered userid
+2020-06-08 09:45:02,516 - BaseClass -INFO - Entered password
+2020-06-08 09:45:03,558 - BaseClass -INFO - Login test is passed
+2020-06-08 09:45:04,170 - BaseClass -INFO - Homepagetitle is verified
+2020-06-08 09:45:08,367 - BaseClass -INFO - Entered cityname
+2020-06-08 09:45:21,153 - BaseClass -INFO - Browser is opened
+2020-06-08 09:45:24,475 - BaseClass -INFO - Entered userid
+2020-06-08 09:45:24,673 - BaseClass -INFO - Entered password
+2020-06-08 09:45:27,641 - BaseClass -INFO - clicked on login
+2020-06-08 09:45:27,879 - BaseClass -INFO - Invalid login test is passed
+2020-06-08 09:45:38,944 - BaseClass -INFO - Browser is opened
+2020-06-08 09:45:39,792 - BaseClass -INFO - Approximate price is selected
+2020-06-08 09:45:43,743 - BaseClass -INFO - Brand name is selected
+2020-06-08 09:45:46,751 - BaseClass -INFO - Price range is selected
+2020-06-08 09:45:46,758 - BaseClass -INFO - Upcoming first bike name 
+2020-06-08 09:45:48,442 - BaseClass -INFO - Upcoming first bike price 
+2020-06-08 09:45:49,511 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-08 09:45:54,381 - BaseClass -INFO - Upcoming second bike name 
+2020-06-08 09:45:56,035 - BaseClass -INFO - Upcoming second bike price 
+2020-06-08 09:45:56,086 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 09:02:46,044 - BaseClass -INFO - Browser is opened
+2020-06-10 09:03:09,589 - BaseClass -INFO - Browser is opened
+2020-06-10 09:04:01,642 - BaseClass -INFO - Browser is opened
+2020-06-10 09:04:03,611 - BaseClass -INFO - Approximate price is selected
+2020-06-10 09:05:06,717 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 09:05:06,809 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 09:05:07,827 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 09:05:08,839 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 09:05:08,859 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 09:05:08,883 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 09:05:47,080 - BaseClass -INFO - Browser is opened
+2020-06-10 09:05:50,209 - BaseClass -INFO - Entered userid
+2020-06-10 09:05:50,606 - BaseClass -INFO - Entered password
+2020-06-10 09:05:50,742 - BaseClass -INFO - Login test is passed
+2020-06-10 09:05:51,875 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 09:05:55,681 - BaseClass -INFO - Entered cityname
+2020-06-10 09:06:16,295 - BaseClass -INFO - Browser is opened
+2020-06-10 09:06:19,683 - BaseClass -INFO - Entered userid
+2020-06-10 09:06:19,932 - BaseClass -INFO - Entered password
+2020-06-10 09:06:20,104 - BaseClass -INFO - clicked on login
+2020-06-10 09:06:21,453 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 09:06:40,572 - BaseClass -INFO - Browser is opened
+2020-06-10 09:06:41,854 - BaseClass -INFO - Approximate price is selected
+2020-06-10 09:06:47,616 - BaseClass -INFO - Brand name is selected
+2020-06-10 09:06:49,401 - BaseClass -INFO - Price range is selected
+2020-06-10 09:06:49,407 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 09:06:51,791 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 09:06:55,858 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 09:07:01,439 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 09:07:05,340 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 09:07:05,411 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 16:23:37,265 - BaseClass -INFO - Browser is opened
+2020-06-10 16:23:40,087 - BaseClass -INFO - Entered userid
+2020-06-10 16:23:40,322 - BaseClass -INFO - Entered password
+2020-06-10 16:23:40,460 - BaseClass -INFO - Login test is passed
+2020-06-10 16:23:44,653 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 16:23:45,581 - BaseClass -INFO - Entered cityname
+2020-06-10 16:24:02,210 - BaseClass -INFO - Browser is opened
+2020-06-10 16:24:05,388 - BaseClass -INFO - Entered userid
+2020-06-10 16:24:05,572 - BaseClass -INFO - Entered password
+2020-06-10 16:24:05,785 - BaseClass -INFO - clicked on login
+2020-06-10 16:24:07,451 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 16:24:21,486 - BaseClass -INFO - Browser is opened
+2020-06-10 16:24:27,796 - BaseClass -INFO - Approximate price is selected
+2020-06-10 16:24:28,898 - BaseClass -INFO - Brand name is selected
+2020-06-10 16:24:31,026 - BaseClass -INFO - Price range is selected
+2020-06-10 16:24:31,031 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 16:24:35,117 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 16:24:36,175 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 16:24:41,200 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 16:24:43,619 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 16:24:43,667 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 16:57:43,905 - BaseClass -INFO - Browser is opened
+2020-06-10 17:01:46,633 - BaseClass -INFO - Browser is opened
+2020-06-10 17:01:49,527 - BaseClass -INFO - Entered userid
+2020-06-10 17:01:49,848 - BaseClass -INFO - Entered password
+2020-06-10 17:01:50,697 - BaseClass -INFO - Login test is passed
+2020-06-10 17:01:50,891 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 17:01:54,628 - BaseClass -INFO - Entered cityname
+2020-06-10 17:02:06,699 - BaseClass -INFO - Browser is opened
+2020-06-10 17:02:09,133 - BaseClass -INFO - Entered userid
+2020-06-10 17:02:09,342 - BaseClass -INFO - Entered password
+2020-06-10 17:02:10,612 - BaseClass -INFO - clicked on login
+2020-06-10 17:02:10,695 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 17:02:21,831 - BaseClass -INFO - Browser is opened
+2020-06-10 17:02:27,199 - BaseClass -INFO - Approximate price is selected
+2020-06-10 17:02:28,492 - BaseClass -INFO - Brand name is selected
+2020-06-10 17:02:30,600 - BaseClass -INFO - Price range is selected
+2020-06-10 17:02:30,604 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 17:02:34,908 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 17:02:35,996 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 17:02:40,637 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 17:02:42,074 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 17:02:42,172 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 17:08:06,503 - BaseClass -INFO - Browser is opened
+2020-06-10 17:08:08,897 - BaseClass -INFO - Entered userid
+2020-06-10 17:08:09,116 - BaseClass -INFO - Entered password
+2020-06-10 17:08:09,290 - BaseClass -INFO - Login test is passed
+2020-06-10 17:08:10,005 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 17:08:13,183 - BaseClass -INFO - Entered cityname
+2020-06-10 17:08:24,348 - BaseClass -INFO - Browser is opened
+2020-06-10 17:08:26,948 - BaseClass -INFO - Entered userid
+2020-06-10 17:08:27,095 - BaseClass -INFO - Entered password
+2020-06-10 17:08:28,251 - BaseClass -INFO - clicked on login
+2020-06-10 17:08:28,328 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 17:08:39,953 - BaseClass -INFO - Browser is opened
+2020-06-10 17:08:45,139 - BaseClass -INFO - Approximate price is selected
+2020-06-10 17:08:45,972 - BaseClass -INFO - Brand name is selected
+2020-06-10 17:08:48,208 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 17:08:51,791 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 17:08:52,861 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 17:08:56,526 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 17:08:58,667 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 17:08:58,710 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 17:11:56,080 - BaseClass -INFO - Browser is opened
+2020-06-10 17:11:58,908 - BaseClass -INFO - Entered userid
+2020-06-10 17:11:59,145 - BaseClass -INFO - Entered password
+2020-06-10 17:11:59,957 - BaseClass -INFO - Login test is passed
+2020-06-10 17:12:00,274 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 17:12:03,869 - BaseClass -INFO - Entered cityname
+2020-06-10 17:12:16,612 - BaseClass -INFO - Browser is opened
+2020-06-10 17:12:19,268 - BaseClass -INFO - Entered userid
+2020-06-10 17:12:19,428 - BaseClass -INFO - Entered password
+2020-06-10 17:12:20,776 - BaseClass -INFO - clicked on login
+2020-06-10 17:12:20,851 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 17:13:16,341 - BaseClass -INFO - Browser is opened
+2020-06-10 17:13:19,049 - BaseClass -INFO - Entered userid
+2020-06-10 17:13:19,268 - BaseClass -INFO - Entered password
+2020-06-10 17:13:20,159 - BaseClass -INFO - Login test is passed
+2020-06-10 17:13:20,505 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 17:13:23,850 - BaseClass -INFO - Entered cityname
+2020-06-10 17:13:35,244 - BaseClass -INFO - Browser is opened
+2020-06-10 17:13:38,937 - BaseClass -INFO - Entered userid
+2020-06-10 17:13:39,143 - BaseClass -INFO - Entered password
+2020-06-10 17:13:40,223 - BaseClass -INFO - clicked on login
+2020-06-10 17:13:40,440 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 17:13:52,305 - BaseClass -INFO - Browser is opened
+2020-06-10 17:13:58,693 - BaseClass -INFO - Approximate price is selected
+2020-06-10 17:13:59,613 - BaseClass -INFO - Brand name is selected
+2020-06-10 17:14:01,594 - BaseClass -INFO - Price range is selected
+2020-06-10 17:14:01,599 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 17:14:05,553 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 17:14:06,622 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 17:14:11,239 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 17:14:13,418 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 17:14:13,456 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 19:43:08,877 - BaseClass -INFO - Browser is opened
+2020-06-10 19:43:17,126 - BaseClass -INFO - Browser is opened
+2020-06-10 19:43:22,177 - BaseClass -INFO - Browser is opened
+2020-06-10 19:43:35,004 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 19:43:47,069 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 19:44:00,102 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 19:44:13,151 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 19:44:25,201 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 19:44:37,249 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-10 19:53:26,004 - BaseClass -INFO - Browser is opened
+2020-06-10 19:53:29,896 - BaseClass -INFO - Entered userid
+2020-06-10 19:53:30,117 - BaseClass -INFO - Entered password
+2020-06-10 19:53:36,694 - BaseClass -INFO - Login test is passed
+2020-06-10 19:53:36,813 - BaseClass -INFO - Homepagetitle is verified
+2020-06-10 19:53:38,120 - BaseClass -INFO - Entered cityname
+2020-06-10 19:53:57,646 - BaseClass -INFO - Browser is opened
+2020-06-10 19:54:01,125 - BaseClass -INFO - Entered userid
+2020-06-10 19:54:01,364 - BaseClass -INFO - Entered password
+2020-06-10 19:54:02,940 - BaseClass -INFO - clicked on login
+2020-06-10 19:54:03,106 - BaseClass -INFO - Invalid login test is passed
+2020-06-10 19:54:18,829 - BaseClass -INFO - Browser is opened
+2020-06-10 19:54:25,821 - BaseClass -INFO - Approximate price is selected
+2020-06-10 19:54:27,170 - BaseClass -INFO - Brand name is selected
+2020-06-10 19:54:29,134 - BaseClass -INFO - Price range is selected
+2020-06-10 19:54:29,142 - BaseClass -INFO - Upcoming first bike name 
+2020-06-10 19:54:35,679 - BaseClass -INFO - Upcoming first bike price 
+2020-06-10 19:54:36,746 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-10 19:54:43,010 - BaseClass -INFO - Upcoming second bike name 
+2020-06-10 19:54:44,971 - BaseClass -INFO - Upcoming second bike price 
+2020-06-10 19:54:46,199 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 08:15:42,304 - BaseClass -INFO - Browser is opened
+2020-06-11 08:17:11,223 - BaseClass -INFO - Browser is opened
+2020-06-11 08:17:14,334 - BaseClass -INFO - Entered userid
+2020-06-11 08:17:14,880 - BaseClass -INFO - Entered password
+2020-06-11 08:17:15,783 - BaseClass -INFO - Login test is passed
+2020-06-11 08:17:16,202 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 08:17:20,551 - BaseClass -INFO - Entered cityname
+2020-06-11 08:17:34,240 - BaseClass -INFO - Browser is opened
+2020-06-11 08:17:37,390 - BaseClass -INFO - Entered userid
+2020-06-11 08:17:37,606 - BaseClass -INFO - Entered password
+2020-06-11 08:17:37,832 - BaseClass -INFO - clicked on login
+2020-06-11 08:17:39,235 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 08:17:50,871 - BaseClass -INFO - Browser is opened
+2020-06-11 08:17:55,628 - BaseClass -INFO - Approximate price is selected
+2020-06-11 08:17:56,888 - BaseClass -INFO - Brand name is selected
+2020-06-11 08:17:58,744 - BaseClass -INFO - Price range is selected
+2020-06-11 08:17:58,752 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 08:18:02,437 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 08:18:03,487 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 08:18:08,694 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 08:18:11,949 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 08:18:12,012 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 08:37:24,377 - BaseClass -INFO - Browser is opened
+2020-06-11 08:37:27,414 - BaseClass -INFO - Entered userid
+2020-06-11 08:37:27,887 - BaseClass -INFO - Entered password
+2020-06-11 08:37:28,063 - BaseClass -INFO - Login test is passed
+2020-06-11 08:37:28,824 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 08:37:33,650 - BaseClass -INFO - Entered cityname
+2020-06-11 08:37:47,637 - BaseClass -INFO - Browser is opened
+2020-06-11 08:37:51,168 - BaseClass -INFO - Entered userid
+2020-06-11 08:37:51,450 - BaseClass -INFO - Entered password
+2020-06-11 08:37:51,646 - BaseClass -INFO - clicked on login
+2020-06-11 08:37:52,665 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 08:38:04,898 - BaseClass -INFO - Browser is opened
+2020-06-11 08:38:11,530 - BaseClass -INFO - Approximate price is selected
+2020-06-11 08:38:12,575 - BaseClass -INFO - Brand name is selected
+2020-06-11 08:38:15,080 - BaseClass -INFO - Price range is selected
+2020-06-11 08:38:15,086 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 08:38:19,176 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 08:38:20,260 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 08:38:25,195 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 08:38:27,425 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 08:38:27,471 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 18:57:43,771 - BaseClass -INFO - Browser is opened
+2020-06-11 18:57:46,839 - BaseClass -INFO - Entered userid
+2020-06-11 18:57:47,112 - BaseClass -INFO - Entered password
+2020-06-11 18:57:49,246 - BaseClass -INFO - Login test is passed
+2020-06-11 18:57:50,699 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 18:57:51,354 - BaseClass -INFO - Entered cityname
+2020-06-11 18:58:02,767 - BaseClass -INFO - Browser is opened
+2020-06-11 18:58:05,374 - BaseClass -INFO - Entered userid
+2020-06-11 18:58:05,561 - BaseClass -INFO - Entered password
+2020-06-11 18:58:05,732 - BaseClass -INFO - clicked on login
+2020-06-11 18:58:06,728 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 18:58:17,409 - BaseClass -INFO - Browser is opened
+2020-06-11 18:58:22,812 - BaseClass -INFO - Approximate price is selected
+2020-06-11 18:58:23,962 - BaseClass -INFO - Brand name is selected
+2020-06-11 18:58:25,745 - BaseClass -INFO - Price range is selected
+2020-06-11 18:58:25,777 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 18:58:30,049 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 18:58:31,089 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 18:58:35,557 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 18:58:37,577 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 18:58:37,691 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 19:02:16,399 - BaseClass -INFO - Browser is opened
+2020-06-11 19:02:20,052 - BaseClass -INFO - Entered userid
+2020-06-11 19:02:20,355 - BaseClass -INFO - Entered password
+2020-06-11 19:02:20,501 - BaseClass -INFO - Login test is passed
+2020-06-11 19:02:21,097 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 19:02:25,141 - BaseClass -INFO - Entered cityname
+2020-06-11 19:02:40,641 - BaseClass -INFO - Browser is opened
+2020-06-11 19:02:43,273 - BaseClass -INFO - Entered userid
+2020-06-11 19:02:43,519 - BaseClass -INFO - Entered password
+2020-06-11 19:02:45,487 - BaseClass -INFO - clicked on login
+2020-06-11 19:02:45,550 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 19:02:55,201 - BaseClass -INFO - Browser is opened
+2020-06-11 19:03:01,186 - BaseClass -INFO - Approximate price is selected
+2020-06-11 19:03:02,189 - BaseClass -INFO - Brand name is selected
+2020-06-11 19:03:04,204 - BaseClass -INFO - Price range is selected
+2020-06-11 19:03:04,208 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 19:03:07,395 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 19:03:08,450 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 19:03:12,925 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 19:03:14,389 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 19:03:14,509 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 19:24:18,000 - BaseClass -INFO - Browser is opened
+2020-06-11 19:24:22,321 - BaseClass -INFO - Entered userid
+2020-06-11 19:24:22,546 - BaseClass -INFO - Entered password
+2020-06-11 19:24:26,834 - BaseClass -INFO - Login test is passed
+2020-06-11 19:24:26,889 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 19:24:27,656 - BaseClass -INFO - Entered cityname
+2020-06-11 19:24:42,134 - BaseClass -INFO - Browser is opened
+2020-06-11 19:24:44,861 - BaseClass -INFO - Entered userid
+2020-06-11 19:24:45,030 - BaseClass -INFO - Entered password
+2020-06-11 19:24:46,296 - BaseClass -INFO - clicked on login
+2020-06-11 19:24:46,397 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 19:24:56,405 - BaseClass -INFO - Browser is opened
+2020-06-11 19:24:57,238 - BaseClass -INFO - Approximate price is selected
+2020-06-11 19:25:02,636 - BaseClass -INFO - Brand name is selected
+2020-06-11 19:25:04,487 - BaseClass -INFO - Price range is selected
+2020-06-11 19:25:04,491 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 19:25:08,109 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 19:25:09,151 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 19:25:13,717 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 19:25:15,316 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 19:25:15,987 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 19:26:16,058 - BaseClass -INFO - Browser is opened
+2020-06-11 19:26:18,740 - BaseClass -INFO - Entered userid
+2020-06-11 19:26:18,974 - BaseClass -INFO - Entered password
+2020-06-11 19:26:19,134 - BaseClass -INFO - Login test is passed
+2020-06-11 19:26:19,824 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 19:26:23,685 - BaseClass -INFO - Entered cityname
+2020-06-11 19:26:36,681 - BaseClass -INFO - Browser is opened
+2020-06-11 19:26:39,468 - BaseClass -INFO - Entered userid
+2020-06-11 19:26:39,658 - BaseClass -INFO - Entered password
+2020-06-11 19:26:39,849 - BaseClass -INFO - clicked on login
+2020-06-11 19:26:40,695 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 19:26:51,450 - BaseClass -INFO - Browser is opened
+2020-06-11 19:26:56,773 - BaseClass -INFO - Approximate price is selected
+2020-06-11 19:26:57,959 - BaseClass -INFO - Brand name is selected
+2020-06-11 19:26:59,899 - BaseClass -INFO - Price range is selected
+2020-06-11 19:26:59,904 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 19:27:03,015 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 19:27:04,054 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 19:27:08,497 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 19:27:10,154 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 19:27:10,729 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 19:42:43,139 - BaseClass -INFO - Browser is opened
+2020-06-11 19:42:45,869 - BaseClass -INFO - Entered userid
+2020-06-11 19:42:46,164 - BaseClass -INFO - Entered password
+2020-06-11 19:42:46,956 - BaseClass -INFO - Login test is passed
+2020-06-11 19:42:50,942 - BaseClass -INFO - Entered cityname
+2020-06-11 19:43:03,056 - BaseClass -INFO - Browser is opened
+2020-06-11 19:43:05,702 - BaseClass -INFO - Entered userid
+2020-06-11 19:43:05,892 - BaseClass -INFO - Entered password
+2020-06-11 19:43:07,042 - BaseClass -INFO - clicked on login
+2020-06-11 19:43:07,168 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 19:43:20,773 - BaseClass -INFO - Browser is opened
+2020-06-11 19:43:22,346 - BaseClass -INFO - Approximate price is selected
+2020-06-11 19:44:25,627 - BaseClass -INFO - Price range is selected
+2020-06-11 19:44:25,631 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 19:44:38,868 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 19:44:39,921 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 19:44:45,622 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 19:44:47,512 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 19:44:48,020 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 19:47:46,759 - BaseClass -INFO - Browser is opened
+2020-06-11 19:47:49,391 - BaseClass -INFO - Entered userid
+2020-06-11 19:47:49,603 - BaseClass -INFO - Entered password
+2020-06-11 19:47:50,747 - BaseClass -INFO - Login test is passed
+2020-06-11 19:47:54,463 - BaseClass -INFO - Entered cityname
+2020-06-11 19:48:10,395 - BaseClass -INFO - Browser is opened
+2020-06-11 19:48:13,060 - BaseClass -INFO - Entered userid
+2020-06-11 19:48:13,251 - BaseClass -INFO - Entered password
+2020-06-11 19:48:13,409 - BaseClass -INFO - clicked on login
+2020-06-11 19:48:14,333 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 19:48:27,352 - BaseClass -INFO - Browser is opened
+2020-06-11 19:48:39,482 - BaseClass -INFO - Approximate price is selected
+2020-06-11 19:48:40,273 - BaseClass -INFO - Brand name is selected
+2020-06-11 19:48:42,027 - BaseClass -INFO - Price range is selected
+2020-06-11 19:48:42,030 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 19:48:44,456 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 19:48:45,502 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 19:48:57,230 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 19:49:57,305 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 19:50:42,777 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 19:53:55,223 - BaseClass -INFO - Browser is opened
+2020-06-11 19:53:57,563 - BaseClass -INFO - Entered userid
+2020-06-11 19:53:57,739 - BaseClass -INFO - Entered password
+2020-06-11 19:53:57,990 - BaseClass -INFO - Login test is passed
+2020-06-11 19:54:01,727 - BaseClass -INFO - Entered cityname
+2020-06-11 19:54:13,863 - BaseClass -INFO - Browser is opened
+2020-06-11 19:54:16,159 - BaseClass -INFO - Entered userid
+2020-06-11 19:54:16,328 - BaseClass -INFO - Entered password
+2020-06-11 19:54:16,730 - BaseClass -INFO - clicked on login
+2020-06-11 19:54:29,956 - BaseClass -INFO - Browser is opened
+2020-06-11 19:54:30,906 - BaseClass -INFO - Approximate price is selected
+2020-06-11 19:54:35,391 - BaseClass -INFO - Brand name is selected
+2020-06-11 19:54:37,032 - BaseClass -INFO - Price range is selected
+2020-06-11 19:54:37,039 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 19:54:40,459 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 19:54:41,504 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 19:54:45,817 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 19:54:47,515 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 19:54:47,554 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 20:04:22,175 - BaseClass -INFO - Browser is opened
+2020-06-11 20:04:24,660 - BaseClass -INFO - Entered userid
+2020-06-11 20:04:25,016 - BaseClass -INFO - Entered password
+2020-06-11 20:04:25,192 - BaseClass -INFO - Login test is passed
+2020-06-11 20:04:29,769 - BaseClass -INFO - Entered cityname
+2020-06-11 20:04:42,647 - BaseClass -INFO - Browser is opened
+2020-06-11 20:04:45,133 - BaseClass -INFO - Entered userid
+2020-06-11 20:04:45,316 - BaseClass -INFO - Entered password
+2020-06-11 20:04:45,419 - BaseClass -INFO - clicked on login
+2020-06-11 20:06:25,696 - BaseClass -INFO - Browser is opened
+2020-06-11 20:06:28,760 - BaseClass -INFO - Entered userid
+2020-06-11 20:06:29,035 - BaseClass -INFO - Entered password
+2020-06-11 20:06:29,223 - BaseClass -INFO - Login test is passed
+2020-06-11 20:06:33,297 - BaseClass -INFO - Entered cityname
+2020-06-11 20:06:46,595 - BaseClass -INFO - Browser is opened
+2020-06-11 20:06:49,049 - BaseClass -INFO - Entered userid
+2020-06-11 20:06:49,388 - BaseClass -INFO - Entered password
+2020-06-11 20:06:49,558 - BaseClass -INFO - clicked on login
+2020-06-11 20:12:17,224 - BaseClass -INFO - Browser is opened
+2020-06-11 20:12:19,651 - BaseClass -INFO - Entered userid
+2020-06-11 20:12:19,950 - BaseClass -INFO - Entered password
+2020-06-11 20:12:20,098 - BaseClass -INFO - Login test is passed
+2020-06-11 20:12:27,055 - BaseClass -INFO - Entered cityname
+2020-06-11 20:12:39,868 - BaseClass -INFO - Browser is opened
+2020-06-11 20:12:42,426 - BaseClass -INFO - Entered userid
+2020-06-11 20:12:42,607 - BaseClass -INFO - Entered password
+2020-06-11 20:12:42,751 - BaseClass -INFO - clicked on login
+2020-06-11 20:15:42,243 - BaseClass -INFO - Browser is opened
+2020-06-11 20:15:44,648 - BaseClass -INFO - Entered userid
+2020-06-11 20:15:45,136 - BaseClass -INFO - Entered password
+2020-06-11 20:15:45,277 - BaseClass -INFO - Login test is passed
+2020-06-11 20:15:49,169 - BaseClass -INFO - Entered cityname
+2020-06-11 20:16:01,338 - BaseClass -INFO - Browser is opened
+2020-06-11 20:16:03,746 - BaseClass -INFO - Entered userid
+2020-06-11 20:16:03,967 - BaseClass -INFO - Entered password
+2020-06-11 20:16:04,108 - BaseClass -INFO - clicked on login
+2020-06-11 20:17:45,642 - BaseClass -INFO - Browser is opened
+2020-06-11 20:17:51,194 - BaseClass -INFO - Entered userid
+2020-06-11 20:17:51,368 - BaseClass -INFO - Entered password
+2020-06-11 20:17:51,570 - BaseClass -INFO - Login test is passed
+2020-06-11 20:17:56,239 - BaseClass -INFO - Entered cityname
+2020-06-11 20:18:10,397 - BaseClass -INFO - Browser is opened
+2020-06-11 20:18:12,870 - BaseClass -INFO - Entered userid
+2020-06-11 20:18:13,025 - BaseClass -INFO - Entered password
+2020-06-11 20:18:13,253 - BaseClass -INFO - clicked on login
+2020-06-11 20:18:26,848 - BaseClass -INFO - Browser is opened
+2020-06-11 20:18:31,746 - BaseClass -INFO - Approximate price is selected
+2020-06-11 20:18:32,591 - BaseClass -INFO - Brand name is selected
+2020-06-11 20:18:34,227 - BaseClass -INFO - Price range is selected
+2020-06-11 20:18:34,236 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 20:18:36,362 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 20:18:37,555 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 20:18:41,909 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 20:18:43,924 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 20:18:43,971 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-11 20:48:20,704 - BaseClass -INFO - Browser is opened
+2020-06-11 20:48:22,949 - BaseClass -INFO - Entered userid
+2020-06-11 20:48:23,284 - BaseClass -INFO - Entered password
+2020-06-11 20:48:23,434 - BaseClass -INFO - Login test is passed
+2020-06-11 20:48:24,349 - BaseClass -INFO - Homepagetitle is verified
+2020-06-11 20:48:27,205 - BaseClass -INFO - Entered cityname
+2020-06-11 20:48:39,959 - BaseClass -INFO - Browser is opened
+2020-06-11 20:48:43,535 - BaseClass -INFO - Entered userid
+2020-06-11 20:48:43,699 - BaseClass -INFO - Entered password
+2020-06-11 20:48:43,947 - BaseClass -INFO - clicked on login
+2020-06-11 20:48:46,422 - BaseClass -INFO - Invalid login test is passed
+2020-06-11 20:48:58,074 - BaseClass -INFO - Browser is opened
+2020-06-11 20:48:59,172 - BaseClass -INFO - Approximate price is selected
+2020-06-11 20:49:03,946 - BaseClass -INFO - Brand name is selected
+2020-06-11 20:49:05,977 - BaseClass -INFO - Price range is selected
+2020-06-11 20:49:05,985 - BaseClass -INFO - Upcoming first bike name 
+2020-06-11 20:49:09,460 - BaseClass -INFO - Upcoming first bike price 
+2020-06-11 20:49:10,557 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-11 20:49:14,417 - BaseClass -INFO - Upcoming second bike name 
+2020-06-11 20:49:16,673 - BaseClass -INFO - Upcoming second bike price 
+2020-06-11 20:49:16,709 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-12 07:21:54,868 - BaseClass -INFO - Browser is opened
+2020-06-12 07:21:58,022 - BaseClass -INFO - Entered userid
+2020-06-12 07:21:58,269 - BaseClass -INFO - Entered password
+2020-06-12 07:21:58,437 - BaseClass -INFO - Login test is passed
+2020-06-12 07:21:59,315 - BaseClass -INFO - Homepagetitle is verified
+2020-06-12 07:22:02,901 - BaseClass -INFO - Entered cityname
+2020-06-12 07:22:22,555 - BaseClass -INFO - Browser is opened
+2020-06-12 07:22:26,771 - BaseClass -INFO - Entered userid
+2020-06-12 07:22:26,957 - BaseClass -INFO - Entered password
+2020-06-12 07:22:28,742 - BaseClass -INFO - clicked on login
+2020-06-12 07:22:29,369 - BaseClass -INFO - Invalid login test is passed
+2020-06-12 07:24:49,140 - BaseClass -INFO - Browser is opened
+2020-06-12 07:24:54,400 - BaseClass -INFO - Approximate price is selected
+2020-06-12 07:24:55,345 - BaseClass -INFO - Brand name is selected
+2020-06-12 07:24:57,351 - BaseClass -INFO - Price range is selected
+2020-06-12 07:24:57,374 - BaseClass -INFO - Upcoming first bike name 
+2020-06-12 07:25:00,680 - BaseClass -INFO - Upcoming first bike price 
+2020-06-12 07:25:01,744 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-12 07:25:06,487 - BaseClass -INFO - Upcoming second bike name 
+2020-06-12 07:25:09,137 - BaseClass -INFO - Upcoming second bike price 
+2020-06-12 07:25:09,176 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-12 07:26:29,219 - BaseClass -INFO - Browser is opened
+2020-06-12 07:26:32,114 - BaseClass -INFO - Entered userid
+2020-06-12 07:26:32,346 - BaseClass -INFO - Entered password
+2020-06-12 07:26:32,682 - BaseClass -INFO - Login test is passed
+2020-06-12 07:26:33,510 - BaseClass -INFO - Homepagetitle is verified
+2020-06-12 07:26:37,073 - BaseClass -INFO - Entered cityname
+2020-06-12 07:26:51,032 - BaseClass -INFO - Browser is opened
+2020-06-12 07:26:53,562 - BaseClass -INFO - Entered userid
+2020-06-12 07:26:53,762 - BaseClass -INFO - Entered password
+2020-06-12 07:26:53,913 - BaseClass -INFO - clicked on login
+2020-06-12 07:26:54,898 - BaseClass -INFO - Invalid login test is passed
+2020-06-12 07:27:07,016 - BaseClass -INFO - Browser is opened
+2020-06-12 07:27:12,624 - BaseClass -INFO - Approximate price is selected
+2020-06-12 07:27:13,472 - BaseClass -INFO - Brand name is selected
+2020-06-12 07:27:15,483 - BaseClass -INFO - Price range is selected
+2020-06-12 07:27:15,491 - BaseClass -INFO - Upcoming first bike name 
+2020-06-12 07:27:19,322 - BaseClass -INFO - Upcoming first bike price 
+2020-06-12 07:27:20,367 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-12 07:27:25,225 - BaseClass -INFO - Upcoming second bike name 
+2020-06-12 07:27:27,178 - BaseClass -INFO - Upcoming second bike price 
+2020-06-12 07:27:27,232 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-12 08:38:04,359 - BaseClass -INFO - Browser is opened
+2020-06-12 08:38:08,023 - BaseClass -INFO - Entered userid
+2020-06-12 08:38:09,032 - BaseClass -INFO - Entered password
+2020-06-12 08:38:10,118 - BaseClass -INFO - Login test is passed
+2020-06-12 08:38:10,336 - BaseClass -INFO - Homepagetitle is verified
+2020-06-12 08:38:15,185 - BaseClass -INFO - Entered cityname
+2020-06-12 08:40:14,066 - BaseClass -INFO - Browser is opened
+2020-06-12 08:40:17,175 - BaseClass -INFO - Entered userid
+2020-06-12 08:40:17,629 - BaseClass -INFO - Entered password
+2020-06-12 08:40:17,832 - BaseClass -INFO - Login test is passed
+2020-06-12 08:40:18,618 - BaseClass -INFO - Homepagetitle is verified
+2020-06-12 08:40:23,327 - BaseClass -INFO - Entered cityname
+2020-06-12 08:40:38,921 - BaseClass -INFO - Browser is opened
+2020-06-12 08:40:43,747 - BaseClass -INFO - Entered userid
+2020-06-12 08:40:44,098 - BaseClass -INFO - Entered password
+2020-06-12 08:40:44,669 - BaseClass -INFO - clicked on login
+2020-06-12 08:40:45,334 - BaseClass -INFO - Invalid login test is passed
+2020-06-12 08:40:59,217 - BaseClass -INFO - Browser is opened
+2020-06-12 08:41:05,690 - BaseClass -INFO - Approximate price is selected
+2020-06-12 08:41:07,231 - BaseClass -INFO - Brand name is selected
+2020-06-12 08:41:09,479 - BaseClass -INFO - Price range is selected
+2020-06-12 08:41:09,489 - BaseClass -INFO - Upcoming first bike name 
+2020-06-12 08:41:14,529 - BaseClass -INFO - Upcoming first bike price 
+2020-06-12 08:41:15,583 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-12 08:41:20,587 - BaseClass -INFO - Upcoming second bike name 
+2020-06-12 08:41:23,290 - BaseClass -INFO - Upcoming second bike price 
+2020-06-12 08:41:23,361 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 21:07:24,927 - BaseClass -INFO - Browser is opened
+2020-06-13 21:07:28,992 - BaseClass -INFO - Approximate price is selected
+2020-06-13 21:07:31,275 - BaseClass -INFO - Brand name is selected
+2020-06-13 21:07:32,952 - BaseClass -INFO - Price range is selected
+2020-06-13 21:07:32,972 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 21:07:35,923 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 21:07:36,995 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 21:07:41,432 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 21:07:43,694 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 21:07:43,735 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 21:10:44,406 - BaseClass -INFO - Browser is opened
+2020-06-13 21:10:49,789 - BaseClass -INFO - Approximate price is selected
+2020-06-13 21:10:50,344 - BaseClass -INFO - Brand name is selected
+2020-06-13 21:11:50,829 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 21:11:54,036 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 21:11:55,132 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 21:11:57,569 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 21:12:00,364 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 21:12:00,931 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 21:14:29,857 - BaseClass -INFO - Browser is opened
+2020-06-13 21:14:30,652 - BaseClass -INFO - Approximate price is selected
+2020-06-13 21:15:32,269 - BaseClass -INFO - Brand name is selected
+2020-06-13 21:15:33,897 - BaseClass -INFO - Price range is selected
+2020-06-13 21:15:33,912 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 21:15:36,950 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 21:15:38,002 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 21:15:42,560 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 21:15:44,657 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 21:15:44,752 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 21:30:02,231 - BaseClass -INFO - Browser is opened
+2020-06-13 21:30:09,281 - BaseClass -INFO - Approximate price is selected
+2020-06-13 21:30:10,320 - BaseClass -INFO - Brand name is selected
+2020-06-13 21:30:12,065 - BaseClass -INFO - Price range is selected
+2020-06-13 21:30:12,074 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 21:30:16,689 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 21:30:17,775 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 21:30:22,275 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 21:30:24,117 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 21:30:24,159 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 22:02:26,759 - BaseClass -INFO - Browser is opened
+2020-06-13 22:02:27,542 - BaseClass -INFO - Approximate price is selected
+2020-06-13 22:03:12,725 - BaseClass -INFO - Brand name is selected
+2020-06-13 22:03:15,065 - BaseClass -INFO - Price range is selected
+2020-06-13 22:03:15,075 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 22:03:19,128 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 22:03:20,232 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 22:03:24,775 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 22:03:27,953 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 22:03:28,168 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 22:08:11,290 - BaseClass -INFO - Browser is opened
+2020-06-13 22:08:18,111 - BaseClass -INFO - Approximate price is selected
+2020-06-13 22:08:18,997 - BaseClass -INFO - Brand name is selected
+2020-06-13 22:08:20,507 - BaseClass -INFO - Price range is selected
+2020-06-13 22:08:20,511 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 22:08:24,524 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 22:08:25,705 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 22:08:30,092 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 22:08:32,286 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 22:08:32,375 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 22:11:14,751 - BaseClass -INFO - Browser is opened
+2020-06-13 22:11:19,686 - BaseClass -INFO - Approximate price is selected
+2020-06-13 22:11:20,692 - BaseClass -INFO - Brand name is selected
+2020-06-13 22:11:22,563 - BaseClass -INFO - Price range is selected
+2020-06-13 22:11:22,578 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 22:11:26,233 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 22:11:27,301 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 22:11:31,887 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 22:11:35,401 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 22:11:35,443 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 22:28:52,635 - BaseClass -INFO - Browser is opened
+2020-06-13 22:28:58,334 - BaseClass -INFO - Approximate price is selected
+2020-06-13 22:28:58,959 - BaseClass -INFO - Brand name is selected
+2020-06-13 22:29:00,763 - BaseClass -INFO - Price range is selected
+2020-06-13 22:29:00,780 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 22:29:03,171 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 22:29:04,244 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 22:29:08,547 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 22:29:10,578 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 22:29:10,616 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 22:38:06,227 - BaseClass -INFO - Browser is opened
+2020-06-13 22:38:11,036 - BaseClass -INFO - Approximate price is selected
+2020-06-13 22:38:11,878 - BaseClass -INFO - Brand name is selected
+2020-06-13 22:38:13,630 - BaseClass -INFO - Price range is selected
+2020-06-13 22:38:13,653 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 22:38:17,284 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 22:38:18,346 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 22:38:22,938 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 22:38:24,346 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 22:38:24,596 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 23:05:59,859 - BaseClass -INFO - Browser is opened
+2020-06-13 23:06:02,462 - BaseClass -INFO - Entered userid
+2020-06-13 23:06:02,980 - BaseClass -INFO - Entered password
+2020-06-13 23:06:05,185 - BaseClass -INFO - Login test is passed
+2020-06-13 23:06:05,255 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:06:07,175 - BaseClass -INFO - Entered cityname
+2020-06-13 23:08:32,796 - BaseClass -INFO - Browser is opened
+2020-06-13 23:08:35,148 - BaseClass -INFO - Entered userid
+2020-06-13 23:08:35,532 - BaseClass -INFO - Entered password
+2020-06-13 23:08:35,697 - BaseClass -INFO - Login test is passed
+2020-06-13 23:08:36,527 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:08:39,885 - BaseClass -INFO - Entered cityname
+2020-06-13 23:18:10,466 - BaseClass -INFO - Browser is opened
+2020-06-13 23:18:13,410 - BaseClass -INFO - Entered userid
+2020-06-13 23:18:13,722 - BaseClass -INFO - Entered password
+2020-06-13 23:18:13,974 - BaseClass -INFO - Login test is passed
+2020-06-13 23:18:15,030 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:18:19,445 - BaseClass -INFO - Entered cityname
+2020-06-13 23:20:17,834 - BaseClass -INFO - Browser is opened
+2020-06-13 23:20:19,953 - BaseClass -INFO - Entered userid
+2020-06-13 23:20:20,385 - BaseClass -INFO - Entered password
+2020-06-13 23:20:20,498 - BaseClass -INFO - clicked on login
+2020-06-13 23:20:21,147 - BaseClass -INFO - Invalid login test is passed
+2020-06-13 23:22:05,718 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:22:36,340 - BaseClass -INFO - Browser is opened
+2020-06-13 23:22:37,245 - BaseClass -INFO - Approximate price is selected
+2020-06-13 23:22:58,177 - BaseClass -INFO - Brand name is selected
+2020-06-13 23:22:59,910 - BaseClass -INFO - Price range is selected
+2020-06-13 23:22:59,923 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 23:23:02,775 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 23:23:03,856 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 23:23:08,334 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 23:23:10,056 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 23:23:10,796 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-13 23:25:38,792 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:31:46,912 - BaseClass -INFO - Browser is opened
+2020-06-13 23:31:49,590 - BaseClass -INFO - Entered userid
+2020-06-13 23:31:49,908 - BaseClass -INFO - Entered password
+2020-06-13 23:31:50,055 - BaseClass -INFO - Login test is passed
+2020-06-13 23:31:53,369 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:31:54,145 - BaseClass -INFO - Entered cityname
+2020-06-13 23:35:37,824 - BaseClass -INFO - Browser is opened
+2020-06-13 23:35:40,879 - BaseClass -INFO - Entered userid
+2020-06-13 23:35:41,023 - BaseClass -INFO - Entered password
+2020-06-13 23:35:42,242 - BaseClass -INFO - Login test is passed
+2020-06-13 23:35:42,357 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:35:45,581 - BaseClass -INFO - Entered cityname
+2020-06-13 23:35:59,299 - BaseClass -INFO - Browser is opened
+2020-06-13 23:36:02,215 - BaseClass -INFO - Entered userid
+2020-06-13 23:36:02,377 - BaseClass -INFO - Entered password
+2020-06-13 23:36:02,512 - BaseClass -INFO - clicked on login
+2020-06-13 23:36:04,211 - BaseClass -INFO - Invalid login test is passed
+2020-06-13 23:36:38,597 - BaseClass -INFO - Browser is opened
+2020-06-13 23:36:40,986 - BaseClass -INFO - Entered userid
+2020-06-13 23:36:41,181 - BaseClass -INFO - Entered password
+2020-06-13 23:36:41,359 - BaseClass -INFO - Login test is passed
+2020-06-13 23:36:42,154 - BaseClass -INFO - Homepagetitle is verified
+2020-06-13 23:36:45,182 - BaseClass -INFO - Entered cityname
+2020-06-13 23:36:57,225 - BaseClass -INFO - Browser is opened
+2020-06-13 23:36:59,725 - BaseClass -INFO - Entered userid
+2020-06-13 23:37:00,001 - BaseClass -INFO - Entered password
+2020-06-13 23:37:02,091 - BaseClass -INFO - clicked on login
+2020-06-13 23:37:02,155 - BaseClass -INFO - Invalid login test is passed
+2020-06-13 23:37:15,630 - BaseClass -INFO - Browser is opened
+2020-06-13 23:37:22,085 - BaseClass -INFO - Approximate price is selected
+2020-06-13 23:37:24,034 - BaseClass -INFO - Brand name is selected
+2020-06-13 23:37:25,621 - BaseClass -INFO - Price range is selected
+2020-06-13 23:37:25,632 - BaseClass -INFO - Upcoming first bike name 
+2020-06-13 23:37:28,643 - BaseClass -INFO - Upcoming first bike price 
+2020-06-13 23:37:29,679 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-13 23:37:34,377 - BaseClass -INFO - Upcoming second bike name 
+2020-06-13 23:37:36,422 - BaseClass -INFO - Upcoming second bike price 
+2020-06-13 23:37:36,468 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-26 21:39:08,614 - BaseClass -INFO - Browser is opened
+2020-06-26 21:39:12,195 - BaseClass -INFO - Entered userid
+2020-06-26 21:39:12,519 - BaseClass -INFO - Entered password
+2020-06-26 21:39:17,523 - BaseClass -INFO - Login test is passed
+2020-06-26 21:39:17,982 - BaseClass -INFO - Homepagetitle is verified
+2020-06-26 21:39:18,713 - BaseClass -INFO - Entered cityname
+2020-06-26 21:39:44,176 - BaseClass -INFO - Browser is opened
+2020-06-26 21:39:47,645 - BaseClass -INFO - Entered userid
+2020-06-26 21:39:47,785 - BaseClass -INFO - Entered password
+2020-06-26 21:39:48,446 - BaseClass -INFO - clicked on login
+2020-06-26 21:39:48,946 - BaseClass -INFO - Invalid login test is passed
+2020-06-26 21:40:03,448 - BaseClass -INFO - Browser is opened
+2020-06-26 21:40:08,077 - BaseClass -INFO - Approximate price is selected
+2020-06-26 21:40:09,350 - BaseClass -INFO - Brand name is selected
+2020-06-26 21:40:11,091 - BaseClass -INFO - Price range is selected
+2020-06-26 21:40:11,105 - BaseClass -INFO - Upcoming first bike name 
+2020-06-26 21:41:04,713 - BaseClass -INFO - Upcoming first bike price 
+2020-06-26 21:41:05,781 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-26 21:41:06,801 - BaseClass -INFO - Upcoming second bike name 
+2020-06-26 21:41:06,816 - BaseClass -INFO - Upcoming second bike price 
+2020-06-26 21:41:06,835 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-26 21:45:04,815 - BaseClass -INFO - Browser is opened
+2020-06-26 21:45:07,558 - BaseClass -INFO - Entered userid
+2020-06-26 21:45:07,784 - BaseClass -INFO - Entered password
+2020-06-26 21:45:09,909 - BaseClass -INFO - Login test is passed
+2020-06-26 21:45:11,725 - BaseClass -INFO - Homepagetitle is verified
+2020-06-26 21:45:12,347 - BaseClass -INFO - Entered cityname
+2020-06-26 21:45:27,991 - BaseClass -INFO - Browser is opened
+2020-06-26 21:45:31,861 - BaseClass -INFO - Entered userid
+2020-06-26 21:45:32,114 - BaseClass -INFO - Entered password
+2020-06-26 21:45:34,010 - BaseClass -INFO - clicked on login
+2020-06-26 21:45:34,164 - BaseClass -INFO - Invalid login test is passed
+2020-06-26 21:45:46,521 - BaseClass -INFO - Browser is opened
+2020-06-26 21:45:53,389 - BaseClass -INFO - Approximate price is selected
+2020-06-26 21:46:14,076 - BaseClass -INFO - Brand name is selected
+2020-06-26 21:46:16,192 - BaseClass -INFO - Price range is selected
+2020-06-26 21:46:16,196 - BaseClass -INFO - Upcoming first bike name 
+2020-06-26 21:46:35,324 - BaseClass -INFO - Upcoming first bike price 
+2020-06-26 21:46:48,695 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-26 21:46:55,116 - BaseClass -INFO - Upcoming second bike name 
+2020-06-26 21:46:56,525 - BaseClass -INFO - Upcoming second bike price 
+2020-06-26 21:46:56,838 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-26 21:49:15,062 - BaseClass -INFO - Browser is opened
+2020-06-26 21:49:18,032 - BaseClass -INFO - Entered userid
+2020-06-26 21:49:18,210 - BaseClass -INFO - Entered password
+2020-06-26 21:49:20,279 - BaseClass -INFO - Login test is passed
+2020-06-26 21:49:21,816 - BaseClass -INFO - Homepagetitle is verified
+2020-06-26 21:49:22,457 - BaseClass -INFO - Entered cityname
+2020-06-26 21:49:32,886 - BaseClass -INFO - Browser is opened
+2020-06-26 21:49:35,365 - BaseClass -INFO - Entered userid
+2020-06-26 21:49:35,587 - BaseClass -INFO - Entered password
+2020-06-26 21:49:36,831 - BaseClass -INFO - clicked on login
+2020-06-26 21:49:37,288 - BaseClass -INFO - Invalid login test is passed
+2020-06-26 21:49:47,876 - BaseClass -INFO - Browser is opened
+2020-06-26 21:49:52,449 - BaseClass -INFO - Approximate price is selected
+2020-06-26 21:49:53,513 - BaseClass -INFO - Brand name is selected
+2020-06-26 21:49:55,209 - BaseClass -INFO - Price range is selected
+2020-06-26 21:49:55,218 - BaseClass -INFO - Upcoming first bike name 
+2020-06-26 21:49:58,274 - BaseClass -INFO - Upcoming first bike price 
+2020-06-26 21:49:59,323 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-26 21:50:03,537 - BaseClass -INFO - Upcoming second bike name 
+2020-06-26 21:50:05,036 - BaseClass -INFO - Upcoming second bike price 
+2020-06-26 21:50:05,633 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-26 21:53:04,275 - BaseClass -INFO - Browser is opened
+2020-06-26 21:53:06,702 - BaseClass -INFO - Entered userid
+2020-06-26 21:53:06,946 - BaseClass -INFO - Entered password
+2020-06-26 21:53:07,090 - BaseClass -INFO - Login test is passed
+2020-06-26 21:53:07,716 - BaseClass -INFO - Homepagetitle is verified
+2020-06-26 21:53:11,522 - BaseClass -INFO - Entered cityname
+2020-06-26 21:53:21,123 - BaseClass -INFO - Browser is opened
+2020-06-26 21:53:23,742 - BaseClass -INFO - Entered userid
+2020-06-26 21:53:24,004 - BaseClass -INFO - Entered password
+2020-06-26 21:53:25,317 - BaseClass -INFO - clicked on login
+2020-06-26 21:53:25,479 - BaseClass -INFO - Invalid login test is passed
+2020-06-26 21:53:34,558 - BaseClass -INFO - Browser is opened
+2020-06-26 21:53:39,405 - BaseClass -INFO - Approximate price is selected
+2020-06-26 21:53:40,619 - BaseClass -INFO - Brand name is selected
+2020-06-26 21:53:42,499 - BaseClass -INFO - Price range is selected
+2020-06-26 21:53:42,504 - BaseClass -INFO - Upcoming first bike name 
+2020-06-26 21:53:46,139 - BaseClass -INFO - Upcoming first bike price 
+2020-06-26 21:53:47,186 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-26 21:53:50,524 - BaseClass -INFO - Upcoming second bike name 
+2020-06-26 21:53:52,123 - BaseClass -INFO - Upcoming second bike price 
+2020-06-26 21:53:52,180 - BaseClass -INFO - Upcoming second bike release date 
+2020-06-26 22:26:34,391 - BaseClass -INFO - Browser is opened
+2020-06-26 22:26:36,415 - BaseClass -INFO - Entered userid
+2020-06-26 22:26:36,736 - BaseClass -INFO - Entered password
+2020-06-26 22:26:36,952 - BaseClass -INFO - Login test is passed
+2020-06-26 22:26:37,671 - BaseClass -INFO - Homepagetitle is verified
+2020-06-26 22:26:40,966 - BaseClass -INFO - Entered cityname
+2020-06-26 22:27:00,401 - BaseClass -INFO - Browser is opened
+2020-06-26 22:27:06,460 - BaseClass -INFO - Entered userid
+2020-06-26 22:27:06,600 - BaseClass -INFO - Entered password
+2020-06-26 22:27:09,117 - BaseClass -INFO - clicked on login
+2020-06-26 22:27:09,171 - BaseClass -INFO - Invalid login test is passed
+2020-06-26 22:27:27,220 - BaseClass -INFO - Browser is opened
+2020-06-26 22:27:45,731 - BaseClass -INFO - Approximate price is selected
+2020-06-26 22:27:46,642 - BaseClass -INFO - Brand name is selected
+2020-06-26 22:27:48,259 - BaseClass -INFO - Price range is selected
+2020-06-26 22:27:48,263 - BaseClass -INFO - Upcoming first bike name 
+2020-06-26 22:27:51,336 - BaseClass -INFO - Upcoming first bike price 
+2020-06-26 22:27:52,382 - BaseClass -INFO - Upcoming first bike release date 
+2020-06-26 22:27:55,413 - BaseClass -INFO - Upcoming second bike name 
+2020-06-26 22:27:56,751 - BaseClass -INFO - Upcoming second bike price 
+2020-06-26 22:27:56,792 - BaseClass -INFO - Upcoming second bike release date 
